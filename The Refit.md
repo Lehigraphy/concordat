@@ -1,5 +1,3 @@
-# Standard Sizes
-
 Forge Master Paros had nodded goodbye to the last overseer… thirteen minutes ago, according to his pocket watch. The forge seemed larger now. The workers—apprentices and masters alike—had sweated and grunted all day to dismount the workbenches and dismantle the machines. Now, all that remained were dark rectangles where the floor had not been worn smooth by countless steps. Roughly fifty million of them since the panels were last replaced, by Paros’s count.
 
 They had finished packing the components of the last lathe almost seventeen minutes ahead of schedule. Paros had decided—for once—to really flex his authority and send them home early on full pay. He had stayed behind, to sign some paperwork, he had told his overseers.
@@ -29,3 +27,4 @@ A part of the mosaic would still be visible after they had installed the line fo
 Paros reached the loading doors. The foundations there had already been set. Next morning, the concrete would have hardened and they could begin unpacking and installing the new loading crane. They would need it to handle the throughput - an increase of over eleven hundred percent per man-hour and square-meter, amortized.
 
 Paros started toward the exit gate. His cane made no sound at all on the gravel behind him.
+
