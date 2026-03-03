@@ -1,3 +1,10 @@
+---
+layout: page
+title: The First Mirror
+category: Fragments
+order:  1
+---
+
 The furnace was cold.
 
 Misalignment.  
@@ -29,4 +36,5 @@ The boy lived.
 Silent.
 
 The furnace burned again.
+
 
