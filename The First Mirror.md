@@ -1,4 +1,4 @@
-The First Mirror
+# The First Mirror
 
 The furnace was cold.
 
@@ -29,5 +29,6 @@ Misaligned.
 
 The boy lived.
 Silent.
+
 
 The furnace burned again.
