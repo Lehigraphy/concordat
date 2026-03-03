@@ -11,12 +11,9 @@ Unforgivable.
 
 Carrier tracks on a Foundry street. Unprecedented. Necessary.
 
-Kera, grown.
-
-Surface-hardened.
-
-Pitted.
-
+Kera, grown.  
+Surface-hardened.  
+Pitted.  
 Chipped.
 
 A boy in her squad.  
