@@ -1,4 +1,1 @@
-# The Concordat
 
-* TOC
-{:toc}
