@@ -1,3 +1,5 @@
+# Fever
+
 Kera, dying in an impact crater, head lolled to the side. Vitrified concrete threw warped reflections back at her.
 
 Kera, with grey in her hair and acid in her heart. First Division in the ring of trenches around Foundry Prime waiting for her signal.
@@ -12,4 +14,5 @@ Kera, etched in iron. Three columns of three hundred men, kneeling, heads bowed,
 
 
 Keeping the furnace lit.
+
 
