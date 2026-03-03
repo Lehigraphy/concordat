@@ -1,4 +1,4 @@
-Gorge
+# Gorge
 
 The dam seemed to stretch all the way to the horizon. To Rhel, it was as good as home. He had been a powerplant technician all his life, like his father and grandfather had been. The infrasonic thrum of the thousands of tonnes of water passing through the turbines was the heartbeat of his life.
 
@@ -67,3 +67,4 @@ The next day, the power plant was again producing electricity, new cables and tr
 The next week, the thunder began again, in the valley beyond the Gorge.
 
 The monster was hungry.
+
