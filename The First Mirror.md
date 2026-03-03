@@ -2,16 +2,11 @@
 
 The furnace was cold.
 
-Misalignment.
-
-Tolerance mismatch.
-
-Unconceivable.
-
-Unprecedented.
-
-Unacceptable.
-
+Misalignment.  
+Tolerance mismatch.  
+Unconceivable.  
+Unprecedented.  
+Unacceptable.  
 Unforgivable.
 
 Carrier tracks on a Foundry street. Unprecedented. Necessary.
@@ -24,20 +19,18 @@ Pitted.
 
 Chipped.
 
-A boy in her squad.
+A boy in her squad.  
 Young, like her brother had been.
 
-Then the ramp dropped,
+Then the ramp dropped,  
 and nothing would ever be the same again.
 
-Afterward, broken glass.
-Reflections, cracked.
-Distorted.
-Misaligned.
+Afterward, broken glass.  
+Reflections, cracked.  
+Distorted.  
+Misaligned.  
 
-The boy lived.
+The boy lived.  
 Silent.
 
-
 The furnace burned again.
-
