@@ -1,5 +1,3 @@
-# Gorge
-
 The dam seemed to stretch all the way to the horizon. To Rhel, it was as good as home. He had been a powerplant technician all his life, like his father and grandfather had been. The infrasonic thrum of the thousands of tonnes of water passing through the turbines was the heartbeat of his life.
 
 Rhel had never seen so many men and vehicles at once. The men of Karsik Gorge were used to tithes: power every day, grain at Harvest. A month ago, the tithe had been men. They told him that the nation of blacksmiths and iron-makers was coming. Well, they could try. The men of Karsik would kneel for nobody. There were tithes, yes, but they were agreed upon. You either agreed, or you rebelled and then you won or then you died. That was honorable. Kneeling was not.
@@ -67,4 +65,5 @@ The next day, the power plant was again producing electricity, new cables and tr
 The next week, the thunder began again, in the valley beyond the Gorge.
 
 The monster was hungry.
+
 
