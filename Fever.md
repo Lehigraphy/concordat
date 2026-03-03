@@ -1,5 +1,8 @@
 ---
-title: Untitled / Fever
+layout: page
+title: untitled / fever
+category: Fragments
+order:  2
 ---
 
 Kera, dying in an impact crater, head lolled to the side. Vitrified concrete threw warped reflections back at her.
@@ -16,6 +19,7 @@ Kera, etched in iron. Three columns of three hundred men, kneeling, heads bowed,
 
 
 Keeping the furnace lit.
+
 
 
 
