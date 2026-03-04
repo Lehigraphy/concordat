@@ -5,6 +5,10 @@
 - [Gorge](Gorge)
 - [Standard Sizes](The Refit)
 
+## Snippets
+- [Line](Line)
+- [Baker](Baker)
+
 ## Fragments
 - [The First Mirror](The First Mirror)
 - [Fever](Fever)
