@@ -2,7 +2,7 @@
 layout: page
 title: Baker
 category: Snippets
-order:  1
+order:  2
 ---
 The baker was kneading the dough. Folding it on itself, working and punching it with his fists, over and over again. He could have used a mixer for that - the small one was empty - but he always did the top-shelf items himself, start to finish.
 
