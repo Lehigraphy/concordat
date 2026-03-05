@@ -10,7 +10,7 @@ The tests had said he had potential for both Anvil and Furnace. Anvil had seemed
 
 He passed the gate to the Fane. The old priestess was in the courtyard inside. A ledger lay open on the stone bench beside her. She raised her head, and her face lightened. The boy remembered her stories, about tree gods or something. He waved a polite hello, and then continued.
 
-The boy was close to completing his apprenticeship -- his first. He was learning the machines, learning to coax a gear out of bronze and steel. _Hydraulic pump, secondary-main_, the Workshop Master had said. She had the inner-Concordant accent and was impossible to satisfy at first. Every time he finished machining and polishing, she found a new fault. Tolerance mismatch, subpar surface finish, imbalance, alignment-something-whatever… The list was endless, and he had been holding back tears most evenings.
+The boy was close to completing his apprenticeship — his first. He was learning the machines, learning to coax a gear out of bronze and steel. _Hydraulic pump, secondary-main_, the Workshop Master had said. She had the inner-Concordant accent and was impossible to satisfy at first. Every time he finished machining and polishing, she found a new fault. Tolerance mismatch, subpar surface finish, imbalance, alignment-something-whatever… The list was endless, and he had been holding back tears most evenings.
 
 He was certain he would have quit many times by now, if Saraf hadn't been there. She had nice eyes, and her…other parts had looked incredible when her apron had parted a little. He had dropped his hammer, and the Master had given him a slap on the back of his head. Then everybody had laughed -- even the Master, a little. A soft chuckle, like how the press sputtered when the steam seal started acting up again.
 
@@ -22,4 +22,4 @@ He had also made a gear for Saraf, from leftover bronze and shaped like a flower
 
 Saraf had called him sweet when he gave her the gear. She turned it in the light, watching the teeth catch.
 
-The bell's chime pulled the boy back from his thoughts. He was going to be late -- again.
+The bell's chime pulled the boy back from his thoughts. He was going to be late — again.
