@@ -8,6 +8,7 @@
 ## Snippets
 - [Line](Line)
 - [Baker](Baker)
+- [Preacher](preacher)
 
 ## Fragments
 - [The First Mirror](The First Mirror)
