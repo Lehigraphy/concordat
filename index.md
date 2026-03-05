@@ -9,6 +9,7 @@
 - [Line](Line)
 - [Baker](Baker)
 - [Preacher](preacher)
+- [Apprentice](apprentice)
 
 ## Fragments
 - [The First Mirror](The First Mirror)
