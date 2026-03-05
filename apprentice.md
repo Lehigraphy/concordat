@@ -16,7 +16,7 @@ He was certain he would have quit many times by now, if Saraf hadn't been there.
 
 He _was_ getting it now, he thought. The list of faults was getting shorter, and a few times the Master had even nodded - and then sent him off to make another one. The same one.
 
-He had also made a gear for Saraf, from leftover bronze and shaped like a flower. His heart had sunk when the Master caught him - he'd been sure he'd be kicked out for stealing materials, or something worse. Instead, she'd turned the flower gear around in her hand. They were calloused, the boy had noticed. Then, impossibly, the Master had smiled a little, and given him a pat on the shoulder. That had actually hurt a little. The Master hadn't said anything for a long time, staring at something that the boy couldn't guess at.
+He had also made a gear for Saraf, from leftover bronze and shaped like a flower. His heart had sunk when the Master caught him - he'd been sure he'd be kicked out for stealing materials, or something worse. Instead, she'd turned the flower gear around in her hand. They were calloused, the boy had noticed. Then, impossibly, the Master had smiled a little, and given him a pat on the shoulder. That had actually hurt a little. The Master hadn't said anything for a long time, staring at something that the boy couldn't guess at, still spinning the gear in her hands.
 
 Saraf had called him sweet when he gave her the gear.
 
