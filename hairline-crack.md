@@ -6,7 +6,7 @@ category: Snippets
 
 Rhel was shaving in the broken mirror. The pieces were not aligned, and his reflections overlapped. A piece was missing from the center.
 
-The first weeks had passed in a fugue. Eating when he had to. Storehouse when there was nothing left to. Once, his supervisor had grabbed his arm - Rhel hadn't noticed the man - and whispered that they needed him at back the plant. Rhel had gone, going through the motions of repair and maintenance. He had not whispered a word.
+The first weeks had passed in a fugue. Eating when he had to. Storehouse when there was nothing left to. Once, his supervisor had grabbed his arm - Rhel hadn't noticed the man - and whispered that they needed him back at the plant. Rhel had gone, going through the motions of repair and maintenance. He had not whispered a word.
 
 When the month of silence was over and the mourning veils had been lifted from doorways, Rhel had noticed something strange. People had been..._kind_ to him. A door held open, a complimentary bread from the storekeeper. The schoolteacher's boy had called him sire. The old miller's daughter had even asked if he was coming to the dance at the new town hall, smiling, her fingers brushing his forearm as if by accident. Still, Rhel had said nothing.
 
