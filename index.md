@@ -6,10 +6,12 @@
 - [Standard Sizes](The Refit)
 
 ## Snippets
+### Alignment
 - [Line](Line)
 - [Baker](Baker)
 - [Preacher](preacher)
 - [Apprentice](apprentice)
+- [Lines](lines)
 
 ## Fragments
 - [The First Mirror](The First Mirror)
