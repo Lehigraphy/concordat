@@ -104,7 +104,7 @@ Kera stepped out through the ruined wall. No more contact signals. One RF trace�
 
 Her breathing became the loudest thing in the world. Her knees felt loose inside the suit. Without it, they would have folded. Gravel crunched underfoot when she shifted.
 
-The squad sergeant—a grizzled veteran with weld-scars on his hands—was calmly issuing commands over the squad link. Something swooshed past overhead, rooftop level. Her backpack wasn’t coughing pellets and polymer filament at the sky—and she was still alive—so the drone must have been friendly. A fixed-wing recon unit from the Furnace—overwatch for counter-attack and artillery spotters, most likely.
+The Squad Master—a grizzled veteran with weld-scars on his hands—was calmly issuing commands over the squad link. Something swooshed past overhead, rooftop level. Her backpack wasn’t coughing pellets and polymer filament at the sky—and she was still alive—so the drone must have been friendly. A fixed-wing recon unit from the Furnace—overwatch for counter-attack and artillery spotters, most likely.
 
 A six-wheeler truck with a missile cassette on top had reversed into a building, its cockpit a crumbled ruin of impacts. A surface-to-air unit, and part of the reason why they were supposed to be here. Unless the other squads had failed miserably, this valley was now of the Foundry. Of the Concordat. 
 
@@ -134,3 +134,4 @@ Kera would be doing none of that. The Hammer never built, not anymore. Her fathe
 Engine-roar only. 
 
 Who would speak first?
+
