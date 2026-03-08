@@ -15,8 +15,7 @@ Kera was shaking. She knew it was her first hot insertion, and they tended to ma
 
 Knowing all this didn’t help at all.
 
-As a child, Kera had dreamed of becoming Anvil like her father—perhaps a historian, or a conservator of what was. Later, she had realized she had all the right traits for Furnace, and dreamed of following her mother’s footsteps as a doctor. But then war had come again, and Kera had enlisted as was expected of her. As the work required. Aptitude tests after basic had shown just enough inclination, so now she was a shield-carrier in the always-in-demand Breacher squads, the military arm of the Hammer. Changing one’s alignment like that after the first or second apprenticeship wasn’t unheard of, but it wasn’t exactly common either. Hadn’t been common.
-
+As a child, Kera had dreamed of becoming Anvil like her father—perhaps a historian, or a conservator of what was. Later, she had thought she had all the Furnace traits, and dreamed of following her mother’s footsteps as a doctor. But then war had come again, and Kera had enlisted as was expected of her. As the work required. Aptitude tests after basic had shown Hammer aspect was surprisingly strong, so now she was a shield-carrier in the always-in-demand Breacher squads. Changing one’s alignment like that after the first or second apprenticeship wasn’t unheard of, but it wasn’t exactly common either. Hadn’t been common.
 
 
 “Twenty to ramp.”
@@ -105,7 +104,7 @@ Kera stepped out through the ruined wall. No more contact signals. One RF trace�
 
 Her breathing became the loudest thing in the world. Her knees felt loose inside the suit. Without it, they would have folded. Gravel crunched underfoot when she shifted.
 
-The squad sergeant—a grizzled veteran with weld-scars on his hands—was calmly issuing commands over the squad link. Something swooshed past overhead, rooftop level. Her backpack wasn’t coughing pellets and polymer filament at the sky—and she was still alive—so the drone must have been friendly. A fixed-wing recon unit from the Furnace, ever watchful for counter-attack and artillery spotters, decoys and lies, most likely.
+The squad sergeant—a grizzled veteran with weld-scars on his hands—was calmly issuing commands over the squad link. Something swooshed past overhead, rooftop level. Her backpack wasn’t coughing pellets and polymer filament at the sky—and she was still alive—so the drone must have been friendly. A fixed-wing recon unit from the Furnace—overwatch for counter-attack and artillery spotters, most likely.
 
 A six-wheeler truck with a missile cassette on top had reversed into a building, its cockpit a crumbled ruin of impacts. A surface-to-air unit, and part of the reason why they were supposed to be here. Unless the other squads had failed miserably, this valley was now of the Foundry. Of the Concordat. 
 
@@ -120,7 +119,7 @@ The plates on Kahara's shield had cracks on them. Kera thought the pattern they 
 
 Nobody spoke. 
 
-She was still shaking—different now. A tremble in her fingertips, a tic at the corner of one eye. Her body coming off fear-chemicals, according to that one lesson. Hardening. Like quenching. Her thoughts kept going back to the first enemy she had killed. The boy. A face, a person, becoming a bundle of meat in torn rags at the turn of her finger. It was hard, but the work had always been hard. Tremble.
+She was still shaking—different now. A tremble in her fingertips, a tic at the corner of one eye. Her body coming off fear-chemicals, according to training. Hardening. Her thoughts kept going back to the first enemy she had killed. The boy. A face, a person, becoming a bundle of meat in torn rags at the turn of her finger. It was hard, but the work had always been hard. Tremble.
 
 That night, they would gather to etch a new mission tally into the glacis of the carrier. It would be the sixteenth. Nearly as many years as she had lived. The machine was young. They used to be old, almost all of them—veneered, slowly apprenticed to service. Crafted. Now they were produced. Just like her suit. Just like her.
 
@@ -130,11 +129,8 @@ Still, nobody spoke.
 
 The Anvil would be moving into the ruined village now, to hold it and to fortify it. They would be measuring and evaluating, setting foundations, pouring to make walls of concrete to replace timber and brick.
 
-Kera would be doing none of that. The Hammer never built, not anymore. Her father still missed his childhood friend who had become a Hammer inventor, always tinkering, always exploring, until a crashed prototype. Today, Kera hit and broke and breached walls. She would not be building together with the Anvil and the Furnace, like her mother had. They used to act together, according to the old stories. In concord.
+Kera would be doing none of that. The Hammer never built, not anymore. Her father still missed his childhood friend who had become a Hammer inventor, always tinkering, always exploring, until a crashed prototype. Today, Kera hit and broke and breached walls. She would not be building and fixing together with the Anvil and the Furnace, like her mother had in her youth. In concord.
 
 Engine-roar only. 
 
 Who would speak first?
-
-
-
