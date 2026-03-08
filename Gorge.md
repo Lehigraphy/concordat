@@ -52,7 +52,7 @@ First an elbow. Then a knee. It lifted its gun. Its slab of steel—only now did
 
 The monster stood again and seemed to look straight at Rhel, and only at Rhel, as if the rest of the Gorge did not exist. As if the world did not exist.
 
-Then Rhel did what no man of Karsik had done for two hundred years. Slowly, ever so slowly, he sank to his knees at the bottom of the trench. He knelt. Hands on his legs, head bowed, as men knelt when honor failed. His gun lay on the ground. He did not remember letting it fall.
+Then Rhel did what no man of Karsik had done for two hundred years. Slowly, ever so slowly, he sank to his knees at the bottom of the trench. He knelt. Hands on his legs, head bowed, as men knelt when honor failed. His gun lay on the ground. He did not remember dropping it.
 
 He felt the earth shift and saw the shadow of the monster pass over him. It stopped. It growled and hissed, like a crane lifting a new turbine wheel. Something flickered across him, as if it were judging him, weighing his worth, deciding whether to condemn or to consume.
 
@@ -71,6 +71,5 @@ The next day, the power plant was again producing electricity, new cables and tr
 The next week, the thunder began again, in the valley beyond the Gorge.
 
 The monster was hungry.
-
 
 
