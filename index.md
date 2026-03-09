@@ -6,7 +6,7 @@
 - [Standard Sizes](The Refit)
 
 ## Snippets
-### Alignment
+### Arcs of Alignment
 - [Line](Line)
 - [Baker](Baker)
 - [Preacher](preacher)
