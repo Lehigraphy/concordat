@@ -4,6 +4,7 @@
 - [The First Breach](The First Breach)
 - [Gorge](Gorge)
 - [Standard Sizes](The Refit)
+- [Hairline Crack](hairline-crack)
 
 ## Snippets
 ### Arcs of Alignment
