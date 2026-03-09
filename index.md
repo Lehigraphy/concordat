@@ -14,6 +14,9 @@
 - [Apprentice](apprentice)
 - [Lines](lines)
 
+### Friction
+- [Protocol Breach](protocol-breach)
+
 ## Fragments
 - [The First Mirror](The First Mirror)
 - [Fever](Fever)
