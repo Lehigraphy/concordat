@@ -109,7 +109,7 @@ She stopped herself. The summary section alone was several pages long, and going
 
 Unfortunately, it would also lock in the third option on her report.
 
-Morale in the Central-Eastern axis was already strained. She'd spoken to the First Master of Yields, and the numbers on steel were concerning. With the strain from supporting the hydrogen industry, they'd get worse. The consumer goods shortages would worsen, and the prices would keep on rising. They only had to hold until they got the refineries in Karsik and Koharsk running, but that was at least ten months away. At least copper was now recovering, she thought.
+Morale in the Central-Eastern axis was already strained. She'd spoken to the First Master of Yields, and the numbers on steel were concerning. With the strain from supporting the nitrogen industry, they'd get worse. The consumer goods shortages would worsen, and the prices would keep on rising. They only had to hold until they got the refineries in Karsik and Koharsk running, but that was at least ten months away. At least copper was now recovering, she thought.
 
 Still, the news from Weiter could trigger an inflation event, a hoarding panic, or any of the five other unpleasant scenarios listed in Appendix 8.3.
 
