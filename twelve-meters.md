@@ -131,7 +131,7 @@ She had been raised to value the exchange of knowledge. Apprentices learned from
  
  The breacher reached in, pulling out the captain. A girl of seventeen on her second deployment, she read, her eyes straying to the photograph on her desk.
  
- She'd been out of alignment by almost twelve meters. The girl had ignored commands to fall back, citing communications failure in her debrief. Enemy EW had still been active, and the radio analysts had rated squad-level links reliability  at fifty-seven percent at the time. _Confidence interval forty to sixty-six._
+ She'd been out of alignment by almost twelve meters. The girl had ignored commands to return to formation, citing communications failure in her debrief. Enemy EW had still been active, and the radio analysts had rated squad-level links reliability  at fifty-seven percent at the time. _Confidence interval forty to sixty-six._
  
  The analyst adjusted the numbers down by ten percentage points, referring to operational...no, probability of obscurant-induced RF scattering in her comment.
  
