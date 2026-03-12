@@ -197,11 +197,11 @@ He walked up the ramp after Aest. The inside was dimly lit by a red glow. There 
 
 The insides were…tiny. He had to move sideways, and still scraped his pauldron against Ott.
 
-They sit down, one by one, securing themselves to the seats. They were slightly staggered, Zosef realized. So that their knees and legs meshed between each other, like cogs on a gear.
+They sat down, one by one, securing themselves to the seats. They were slightly staggered, Zosef realized. So that their knees and legs meshed between each other, like cogs on a gear.
 
 The ramp rose with a whine of hydraulics. The sliver of electric light from the hangar crept thinner and thinner.
 
-Then it slammed shut with a metallic toll, sealing them into the red gloom reflecting from the worn floor.
+Then it slammed shut with a metallic toll, sealing them into the red gloom. Zosef saw his outline reflected from Kera's armor.
 
 Kera spoke.
 
