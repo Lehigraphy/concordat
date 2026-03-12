@@ -6,6 +6,7 @@
 - [Standard Sizes](The Refit)
 - [Hairline Crack](hairline-crack)
 - [Twelve Meters](twelve-meters)
+- [Spare](spare)
 
 ## Snippets
 ### Arcs of Alignment
