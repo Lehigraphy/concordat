@@ -11,7 +11,7 @@ Then, the squad master arrived, barking a terse command for the squad to follow,
 
 He had dreamed of being a breacher since his first apprenticeship, and enlisted as soon as he was legally able. During the apprenticeship — basic training — he'd been worried they'd shuttle him off as a combat engineer or something. His entire family had always been Anvil. When the results finally came, his heart had leapt.
 
-It had been a late afternoon when he finally arrived to the base, got all the forms signed, and found the third squad of third company - his. They had just been about to unsuit, helms off, looking every nut and bolt like the promos. The armor had looked even bigger and scarier up close.
+It had been a late afternoon when he finally arrived to the base, got all the forms signed, and found his unit, the third squad of third company. They had just been about to unsuit, helms off, looking every nut and bolt like the promos. The armor had looked even bigger and scarier up close.
 
 Then his squad master suddenly had appeared in front of him. He hadn't heard a thing. Afterwards, he realized his mouth had probably fallen open, before he composed himself and made his report, staring upward. His eyes had barely reached the lower ridge of the master's gorget.
 
