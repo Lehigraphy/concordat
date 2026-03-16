@@ -195,7 +195,7 @@ They had done endless tests and modifications since, even rebuilding the entire 
 
 After three months, they had brought in two more breachers as test riders for doctrine fine-tuning. A young man called Kest from Taren’s company, and a woman he had never met. Both had ridden bikes in their past lives. Apprentices had built two identical bikes for them, based on the latest design freeze, while the work continued on Taren’s. It was _his_ bike now.
 
-Field exercises had taken Taren increasingly away from the workshop. They _were_ allowed to train on the valley bottom, closer to the city, so it wasn’t that bad in the end. Taren remembered the hikes up-valley in his basic training, his heels aching in reminiscence. Afterward, they’d comb through the mission evaluations with Zora, and technical feedback with Branik.
+Field exercises had taken Taren increasingly away from the workshop. They _were_ allowed to train on the valley bottom now, closer to the city, so it wasn’t that bad in the end. Taren remembered the hikes up-valley in his basic training, his heels aching in reminiscence. Afterward, they’d comb through the mission evaluations with Zora, and technical feedback with Branik.
 
 Having a gun in his gauntlet again had felt reassuring to Taren. He could see that each artillery battery the bikes would force to relocate, every staging area they disrupted, would save breacher lives. And Anvil and Furnace too, he added.
 
@@ -248,7 +248,7 @@ Taren squeezed off another shot. Fifty meters now.
 The mortar crew was startled. The loader jumped back, kicking on the bipod. The tube began toppling.
 Two more shots, in quick succession. Splinters of wood exploded from the hits.
 
-The mortar thumped one more time. Maybe the firing lanyard had caught on something. The ground went whistling away, skimming the ground. A soft thud as it buried itself in the soil somewhere.
+The mortar thumped one more time. Maybe the firing lanyard had caught on something. The round went whistling away, skimming the ground. A soft thud as it buried itself in the soil somewhere.
 
 Taren was speeding away, heart hammering.
 
@@ -288,7 +288,7 @@ A brief silence.
 
 He continued musing.
 
-'Like the approach, too. Ride ahead, see what reacts.’
+'Like the stratagem, too. Ride ahead, see what reacts.’
 
 Then, a chuckle.
 
