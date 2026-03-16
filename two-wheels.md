@@ -3,8 +3,6 @@ layout: page
 title: Two Wheels
 category: Accounts
 ---
-# Two Wheels
-
 It was almost dawn, the sky behind the mountain turning from dark grey to a faint blue. Taren was inching forward on his bike, a leisurely pace barely faster than a brisk walk. The night had been freezing, and frozen leaves crunched under his tires. The turbine was whining lightly, pushing just enough power to keep the battery charged. The sound would only carry two hundred meters or so in this foliage, Taren knew.
 
 The forest was waking up, he could hear. The morning birds were chirping and chattering. Somewhere near, a squirrel was barking angrily, scurrying up a trunk. A little further away, a stream was splashing gently. His suits' audio pickups were amazing in the relative quiet, Taren thought.
