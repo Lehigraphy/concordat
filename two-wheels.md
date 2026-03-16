@@ -33,7 +33,7 @@ The order had arrived out of the blue one morning four months ago. Summons to th
 
 That had made precisely no sense. He had been a breacher for almost fifteen years, squad master the last ten. It was what he was good at, and the only thing he was good at. The overseer had spoken something about a _latent Furnace/intelligence aspect_. 
 
-Taren hadn’t understood. If requesting a drone reroute meant spotting an autocannon nest behind a building, his boys and girls would leave. Of course he’d do it, but it didn’t make him Furnace.
+Taren hadn’t understood. If requesting a drone reroute meant spotting an autocannon nest behind a building, his boys and girls would live. Of course he’d do it, but it didn’t make him Furnace.
 
 Taren had saluted, the sheet of orders under his arm.
 
