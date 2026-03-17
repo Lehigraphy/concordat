@@ -15,7 +15,7 @@ Kera, frail now. Hollow resignation where acid once was. She saw it now. Saw why
 
 _An anvil, polished smooth by endless use, stamping the same shape again and again._
 
-Kera, etched in iron. Three columns of three hundred men, kneeling, heads bowed, lips moving in silent prayer. Behemoths of cold steel and burnt clay, carrying the foundries into the dark between the stars.
+Kera, etched in iron. Three columns of three hundred men, standing, heads bowed, lips moving silently. A bell tolled. Behemoths of cold steel and burnt clay, carrying the foundries into the dark between the stars.
 
 
 Keeping the furnace lit.
