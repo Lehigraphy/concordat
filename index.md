@@ -21,5 +21,6 @@
 - [Protocol Breach](protocol-breach)
 
 ## Fragments
+- [Where the River Used to Bend](where-river-used-bend)
 - [The First Mirror](The First Mirror)
 - [Fever](Fever)
