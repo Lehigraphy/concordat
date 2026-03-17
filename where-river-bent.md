@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Where the River Used to Bend
+title: Where the River Bent
 category: Fragments
 ---
 ## Forebear
