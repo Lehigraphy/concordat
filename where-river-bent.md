@@ -118,4 +118,5 @@ The descendant cannot read the runes. He carefully slips the paper within a leat
 The river is supposed to have a bend here, according to the map he has traded from another crew. He can see the waterlilies, but no bend. 
 
 The river remembers.
+
 He does not know what it is remembering.
