@@ -8,6 +8,7 @@
 - [Twelve Meters](twelve-meters)
 - [Spare](spare)
 - [Two Wheels](two-wheels)
+- [Low Inertia](low-inertia)
 
 ## Snippets
 ### Arcs of Alignment
