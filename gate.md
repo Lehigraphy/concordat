@@ -59,7 +59,7 @@ The eyes of the High King searched the enemy troops.
 
 There.
 
-A warrior, no, a soldier. Nothing on him, really. But he had the movements, pointing, the line following with him. On a closer look, three small banners on his gorget.
+A warrior, no, a soldier. Nothing on him, really. But he had the movements, pointing, the line following with him. On a closer look, three small hammers on his gorget.
 
 The king yelled a command, and the Hallguard disengaged, mauls and poleaxes on guard.
 
