@@ -20,6 +20,9 @@
 ### Friction
 - [Protocol Breach](protocol-breach)
 
+### Arcs of Concordance
+- [Gate](gate)
+
 ## Fragments
 - [Where the River Bent](where-river-bent)
 - [The First Mirror](The First Mirror)
