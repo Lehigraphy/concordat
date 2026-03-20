@@ -22,6 +22,7 @@
 - [Protocol Breach](protocol-breach)
 
 ### Arcs of Concordance
+- [Fire](fire)
 - [Gate](gate)
 
 ## Fragments
