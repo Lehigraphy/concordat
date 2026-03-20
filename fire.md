@@ -54,4 +54,6 @@ The log had now caught fire, and the flames burned brighter.
 
 ‘Tomorrow, we do it again. Same furnace. Same coals. See if it happens again. Then a different ingot.’ 
 
+Sparks spun through the air.
+
 ‘Again.’
