@@ -12,7 +12,7 @@ Before him, the fire crackled, the flames twisting and curling around each other
 
 A log split, bursting sparks into the air. They rose with the smoke, like red stars against the dark, for a heartbeat.
 
-‘How does it act?’ asked the elder, a wool blanket around her shoulders.
+‘How is it?’ asked the elder, a wool blanket around her shoulders.
 
 ‘It’s harder. Doesn’t bend when hot. Doesn’t break when cool.’
 
@@ -52,6 +52,6 @@ She paused for a second, and then continued.
 
 The log had now caught fire, and the flames burned brighter.
 
-‘Same furnace. Same coals. See if it happens again. Then a different ingot.’ 
+‘Tomorrow, we do it again. Same furnace. Same coals. See if it happens again. Then a different ingot.’ 
 
 ‘Again.’
