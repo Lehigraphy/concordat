@@ -20,9 +20,10 @@ Something that valuable could not stay a secret forever. Either by coin or blade
 So they had sold the secret while they could, and the trader had bought.
 
 **
+
 The trader had woken up to a muffled scream.
 
-He had jumped up, still in his (word for underwear?) and rushed out of his tent. The bottles on his table had reflected the light from the single candle.
+He had jumped up, still in his drawers and rushed out of his tent. The bottles on his table had reflected the light from the single candle.
 
 At the doorway, he struck something hard and unyielding.
 
@@ -49,6 +50,8 @@ The warrior pulled back his blade.
 Around him, screams.
 
 No trace of him would survive. They would make sure of it. Boats and caravans disappeared from time to time, but had the word spread, nobody would trade with the city ever again.
+
+No word would spread.
 
 Their bodies would be burned. Their rings and jewellery would be hammered flat and melted.
 
