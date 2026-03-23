@@ -3,6 +3,8 @@ layout: page
 title: Twelve Meters
 category: Campaign Accounts
 ---
+# Twelve Meters
+
 An ornate timepiece on Zora's desk showed it was past ten already. It was dark outside her window, and the offices were quiet. She had imported tea in her cup, but the mounting ache behind her eyes was entirely homegrown.
 
 She was skimming through the report one final time. The battle of the Weiter Pass had begun like any alignment operation. A preparatory shelling of the Conglomerate positions, and then a simultaneous strike on six separate sites. Three full companies, nine breacher squads.
@@ -17,7 +19,7 @@ The smoke had covered their approach. A good tactic, Zora had to add. _Their_ ta
 
 Within five minutes, the Anvil positions had been close to being overrun.
 
-Zora sipped at her tea and pulled up the video of a captured enemy officer. The man was sitting in the interrogation chamber, ramrod-straight and jaw set, sidearm still on belt. His cheek and left hand were still bandaged. Burn scars sustained when he was trapped in a disabled personnel carrier, according to supplement 2.18.
+Zora sipped at her tea and pulled up the video of a captured enemy officer. _A field knight_. A mechanized infantry captain. The man was sitting in the interrogation chamber, ramrod-straight and jaw set, sidearm still on belt. His cheek and left hand were still bandaged. Burn scars sustained when he was trapped in a disabled personnel carrier, according to supplement 2.18.
 
 [Captain Kaherr, 3rd mechanized regiment, 1st company], told the video overlay. The man was looking straight at the interrogator.
 
@@ -49,7 +51,7 @@ The video panned left, towards the southern flank. The enemy line there was almo
 
 The video zoomed in. Troopers, hunkering in a crater, working their bolt-action rifles.
 
-Next, something spun through the air, green and rectangular, tumbling end over end, with a dull metallic clatter as it hit the ground. It landed right next to an enemy combat engineer, evident from their dark blue armband. The man startled back, dropping his gun.
+Next, something spun through the air, green-and-black and rectangular, tumbling end over end, with a dull metallic clatter as it hit the ground. It landed right next to an enemy combat engineer, evident from their dark blue armband. The man startled back, dropping his gun.
 
 Then, he turned, and ran.
 
@@ -127,7 +129,7 @@ She had been raised to value the exchange of knowledge. Apprentices learned from
  
  She was about to sign when she realized she'd forgotten something. Sloppy, she shouldn't be working so late anymore.
  
- She pulled up the captain section again, interview report verification subsection. Drone ventral camera footage, zoomed and grainy, the perspective slowly shifting as the flier made its pass. A breacher was leaning against a smoking wreck of an APC, its green camouflage burned black at spots. The breacher was straining to get a warped rear hatch open. The hatch tore free and spun away, tumbling end over end. The microphone array picked up a dull clatter as it hit something inside the smoke.
+ She pulled up the captain section again, interview report verification subsection. Drone ventral camera footage, zoomed and grainy, the perspective slowly shifting as the flier made its pass. A breacher was leaning against a smoking wreck of an APC, its green-and-black heraldry burned black at spots. The breacher was straining to get a warped rear hatch open. The hatch tore free and spun away, tumbling end over end. The microphone array picked up a dull clatter as it hit something inside the smoke.
  
  The breacher reached in, pulling out the captain. A girl of seventeen on her second deployment, she read, her eyes straying to the photograph on her desk.
  
