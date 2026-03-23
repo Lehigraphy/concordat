@@ -106,7 +106,7 @@ Her breathing became the loudest thing in the world. Her knees felt loose inside
 
 The Squad Master—a grizzled veteran with weld-scars on his hands—was calmly issuing commands over the squad link. Something swooshed past overhead, rooftop level. Her backpack wasn’t coughing pellets and polymer filament at the sky—and she was still alive—so the drone must have been friendly. A fixed-wing recon unit from the Furnace—overwatch for counter-attack and artillery spotters, most likely.
 
-A six-wheeler truck with a missile cassette on top had reversed into a building, its cockpit a crumbled ruin of impacts. A surface-to-air unit, and part of the reason why they were supposed to be here. Unless the other squads had failed miserably, this valley was now of the Foundry. Of the Concordat. 
+A six-wheeler truck with a missile cassette on top had reversed into a building, its cockpit a crumbled ruin of impacts. A surface-to-air unit, and part of the reason why they were supposed to be here. Unless the other squads had failed miserably, this valley was now aligned. Part of the Concordat. 
 
 Otherwise, the place was a village. A village of flattened cots and brick and stone, pierced by bullets and shells. Homes. Kera hoped the folks had got to their cellars in time. The central keep seemed intact, so at least nobody had been shooting back from there. People still respected that tradition.
 
