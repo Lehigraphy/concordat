@@ -23,6 +23,7 @@
 
 ### Arcs of Concordance
 - [Fire](fire)
+- [Attendant](attendant)
 - [Reflected in Plate](reflected-in-plate)
 - [Reflected in Glass](reflected-in-glass)
 - [Gate](gate)
