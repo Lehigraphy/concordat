@@ -6,7 +6,9 @@ category: Snippets
 
 The smith turned the misshapen lump in his hands. The metal felt…incorrect. The texture was different, and the edges caught his callouses in an unfamiliar way.
 
-Before him, the fire crackled, the flames twisting and curling around each other, dying and then reappearing. It felt warm on his face. A gentle warm, soft, different from the near-white glow of his furnace.
+Before him, the fire crackled, the flames twisting and curling around each other, dying and then reappearing. The smith understood why some still thought they could see the future in the fire, or messages, or warnings.
+
+The fire felt warm on his face. A gentle warm, soft, different from the near-white glow of his furnace.
 
 ‘It’s not iron,’ he said. ‘Doesn’t strike like iron.’
 
