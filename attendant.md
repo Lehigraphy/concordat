@@ -90,7 +90,9 @@ The counter shook the boy’s hand and then looked at his. It had black stains n
 He had kept on talking while they walked into the foundry. The counter found himself liking the boy, but something else was bothering him.
 
 The boy gestured again, and the counter saw it—black in the creases, stubborn, clinging. Not surface dirt. Something that stayed.
+
 Fevers did not come from air. 
+
 They came from contact.
 
 **
