@@ -64,7 +64,7 @@ Step. Walk.
 
 Something slammed into her head and snapped it sideways. Heavy machine-gun nest, bearing thirty.
 
-Without her neck actuators, it would have broken her neck. Without her helmet, her parents and little brother would have had to say their goodbyes to a headless corpse.
+Without her neck actuators, it would have broken her neck. Without her helmet, her parents and little brother would have had to say their goodbyes to a photograph on a closed coffin.
 
 She re-aligned the shield—slow, almost too slow—then crouched and braced. Impacts hammered it, driving her back half a step. Her lungs wouldn’t work. She took aim, visor-only.
 
@@ -94,7 +94,7 @@ Then she squeezed the trigger, and the boy stopped looking like anything at all.
 
 Again. Again. Again. Bodies tumbling, twisting, dropping. Red brackets blinking out, one by one. The wall behind becoming a sieve.
 
-A brass case the size of her hand bounced back from something. For a moment it glinted like her uncle’s gold jewellery in the sun. In her dazzler’s beam. No sun here.
+A brass case the length of her hand bounced back from something. For a moment it glinted like her uncle’s gold jewellery in the sun. In her dazzler’s beam. No sun here.
 
 The case hit the floor, bounced once. Scan right first—the non-shield side. Left. No contacts. Gesture-signal the squad. Reload.
 
@@ -111,7 +111,7 @@ A six-wheeler truck with a missile cassette on top had reversed into a building,
 Otherwise, the place was a village. A village of flattened cots and brick and stone, pierced by bullets and shells. Homes. Kera hoped the folks had got to their cellars in time. The central keep seemed intact, so at least nobody had been shooting back from there. People still respected that tradition.
 
 
-
+**
 
 The assault carrier didn't sound any more quiet on the way back to base. The machine had survived the insertion with enough mobility left to carry them home. That was optional, but always a positive. They had secured the village quickly, and the vehicle had picked them up from the main avenue. There had been blood on the tracks. No townsfolk had reappeared in the minutes they had stayed.
 
