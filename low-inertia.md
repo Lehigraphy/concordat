@@ -73,7 +73,7 @@ The knight was raising questions and objections, one after another. About a plan
 
 Rhel snapped awake, gasping for breath and heart hammering. It was dark, and the hands of the clock were glowing faint green. It was a quarter past four. He groaned.
 
-The nightmare had been the same. He had been back in the trenches, half-deaf, hands trembling as he worked the bolt of his gun, over and over again. Nothing happened when he pulled the trigger. The iron monster kept walking towards him, inexorable.
+The nightmare had been the same. He had been back in the trenches, half-deaf, hands trembling as he worked the bolt of his _familiar scorch-marked_ gun, over and over again. Nothing happened when he pulled the trigger. The iron monster kept walking towards him, inexorable.
 
 Rhel shuddered.
 
