@@ -127,7 +127,7 @@ She had been raised to value the exchange of knowledge. Apprentices learned from
  
  When they released the full reports, they would have lost much of their shock value. The steel situation would be improving by then. Everyday goods would be back on shelves. _Her baker could get his oven refurbished._ She'd have to drop him a hint, encourage him to wait a little.
  
- She was about to sign when she realized she'd forgotten something. Sloppy, she shouldn't be working so late anymore.
+ She was about to sign when she realized she'd forgotten something. Sloppy, she shouldn't be working so late anymore. A bell told once somewhere.
  
  She pulled up the captain section again, interview report verification subsection. Drone ventral camera footage, zoomed and grainy, the perspective slowly shifting as the flier made its pass. A breacher was leaning against a smoking wreck of an APC, its green-and-blue heraldry burned black at spots. The breacher was straining to get a warped rear hatch open. The hatch tore free and spun away, tumbling end over end. The microphone array picked up a dull clatter as it hit something inside the smoke.
  
