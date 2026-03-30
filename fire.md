@@ -8,7 +8,7 @@ The smith turned the misshapen lump in his hands. The metal felt…incorrect. Th
 
 Before him, the fire crackled, the flames twisting and curling around each other, dying and then reappearing. The smith understood why some still thought they could see the future in the fire, or messages, or warnings.
 
-The fire felt warm on his face. A gentle warm, soft, different from the near-white glow of his furnace.
+The fire felt warm on his face. A gentle warm, soft, different from the near-white glow of his forge.
 
 ‘It’s not iron,’ he said. ‘Doesn’t strike like iron.’
 
@@ -32,13 +32,13 @@ The maker added a new log, stoking the fire, making the flames leap higher for a
 
 ‘What did you do, when you made it?’ she went on.
 
-‘I didn’t do anything. I found it, in the furnace,’ the smith replied. ‘The boy must have dropped an ingot there.’
+‘I didn’t do anything. I found it, in the forge,’ the smith replied. ‘The boy must have dropped an ingot there.’
 
-‘Put another ingot in the furnace, then,’ the maker said, the carving in his hand again. ‘The furnace makes it better.’
+‘Put another ingot in the forge, then,’ the maker said, the carving in his hand again. ‘The forge makes it better.’
 
 ‘It’s not better,’ he answered. Then, lower, ‘I don’t know how to work it.’
 
-‘You would learn.’ The elder, again. ‘But it may not have been the furnace,’ she continued, adjusting her blanket.
+‘You would learn.’ The elder, again. ‘But it may not have been the forge,’ she continued, adjusting her blanket.
 
 A rock cracked in the fire. More sparks flew.
 
@@ -54,7 +54,7 @@ She paused for a second, and then continued.
 
 The log had now caught fire, and the flames burned brighter.
 
-‘Tomorrow, we do it again. Same furnace. Same coals. See if it happens again. Then a different ingot.’ 
+‘Tomorrow, we do it again. Same forge. Same coals. See if it happens again. Then a different ingot.’ 
 
 Sparks spun through the dark.
 
