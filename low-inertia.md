@@ -83,7 +83,7 @@ Rhel shuddered.
 
 When the monster reached him, he wasn’t in the trench anymore. He was standing on a floor, or perhaps on the ground. Still, the monster towered over him, impossibly large, filling his entire vision. It was cracked, and pitted with impact craters, leaking the black fluid. Heat bathed Rhel’s face, like standing too close to an open fireplace.
 
-He always woke up when the gauntlet reached for him. It felt real. Remembered.
+He always woke up when the gauntlet reached for him. That part always felt so...real.
 
 Rhel walked to the sink, head heavy and feet leaden. He opened the tap, and leaned against the sink, breathing deep while the water cooled. He could still feel the heat on his face after three splashes.
 
