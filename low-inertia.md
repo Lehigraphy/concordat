@@ -33,6 +33,8 @@ Outside, a cloud passed in front of the sun, and Rhel saw himself reflected in t
 
 He turned away.
 
+**
+
 After the shift ended, Rhel made his way to the town and then towards the hall and keep. The monthly council meeting was tonight, the cobblestone streets were busy, most people drifting in the same direction.
 
 Rhel reached the hall. Two banners were hanging on both sides of the gate. On the right was the Karsik standard, browned with age, stitching faintly visible where holes and cuts had been repaired. On the left, the Conglomerate, pristine.
@@ -71,6 +73,8 @@ The woman went through a list of plans, matter of fact. Upgrades to the mine and
 
 The knight was raising questions and objections, one after another. About a planned road intersecting traditional training grounds, and if Karsik festive holidays versus work schedules. The woman was making notes, telling that they would arrange the planned downtimes where possible, but that there were constraints coming from the processes themselves.
 
+**
+
 Rhel snapped awake, gasping for breath and heart hammering. It was dark, and the hands of the clock were glowing faint green. It was a quarter past four. He groaned.
 
 The nightmare had been the same. He had been back in the trenches, half-deaf, hands trembling as he worked the bolt of his _familiar scorch-marked_ gun, over and over again. Nothing happened when he pulled the trigger. The iron monster kept walking towards him, inexorable.
@@ -79,11 +83,13 @@ Rhel shuddered.
 
 When the monster reached him, he wasn’t in the trench anymore. He was standing on a floor, or perhaps on the ground. Still, the monster towered over him, impossibly large, filling his entire vision. It was cracked, and pitted with impact craters, leaking the black fluid. Heat bathed Rhel’s face, like standing too close to an open fireplace.
 
-He always woke up when the gauntlet reached for him.
+He always woke up when the gauntlet reached for him. It felt real. Remembered.
 
 Rhel walked to the sink, head heavy and feet leaden. He opened the tap, and leaned against the sink, breathing deep while the water cooled. He could still feel the heat on his face after three splashes.
 
 He shaved in the broken mirror some time later. He didn’t know how long it took.
+
+**
 
 Rhel stopped at a cafe on his way to the powerplant. There were a few people in line before him, talking about the planned refinery. Rhel hoped he would find a quiet table hidden in a corner somewhere.
 
@@ -108,6 +114,8 @@ The boy didn’t seem to notice.
 The owner called for the boy. _Good._
 
 After he had gone, Rhel noticed he had spilled his coffee at some point. Good thing the boy had brought the napkin.
+
+**
 
 By evening, Rhel was in the bouting hall. The walls were timber, and lined with furs and paintings. The lord’s banner hung on the rear wall, surrounded by those of knights. He recognized the one hanging next to the lord’s.
 
@@ -154,6 +162,8 @@ Rhel nodded quietly, sharing a look with the boy.
 
 The boy nodded back.
 
+**
+
 The next morning, Rhel was walking under the power line. The engineer in the dark coat was walking next to him, asking questions, making notes on his plate. A man-sized reel of cable was waiting by the transformer station, and Rhel could hear the sounds of earthworking machines being unloaded from trucks.
 
 ‘It’s good there were no further acts of vandalism,’ the man was explaining.
@@ -161,6 +171,8 @@ The next morning, Rhel was walking under the power line. The engineer in the dar
 ‘The Karsik grid is still low-inertia. A sudden drop in load could have desynchronized the generators. Blackout across the gorge.’ Then, almost apologetically, ‘But you know all this already.’
 
 Rhel was thinking of the breaker box. How the casing had split, and bits of ceramics had spilled out.
+
+**
 
 That night, Rhel and the boy slipped through the darkness. The boy had broken two of the light bulbs earlier that night with a slingshot. It was new moon, and Rhel could barely see the boy moving a few meters to his side.
 
