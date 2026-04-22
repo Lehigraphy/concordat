@@ -9,6 +9,7 @@
 - [Spare](spare)
 - [Two Wheels](two-wheels)
 - [Low Inertia](low-inertia)
+- [Tally](tally)
 
 ## Snippets
 ### Arcs of Alignment
