@@ -36,3 +36,11 @@ p:first-of-type {
   margin: 2em 0;
   text-indent: 0;
 }
+
+/* Fonts */
+body {
+  max-width: 650px;
+  margin: auto;
+  line-height: 1.6;
+  font-family: Georgia, serif;
+}
