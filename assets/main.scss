@@ -3,6 +3,16 @@
 
 @import "minima";
 
-body {
-  background: red !important;
+p {
+  text-indent: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p + p {
+  margin-top: 0;
+}
+
+p:first-of-type {
+  text-indent: 0;
 }
