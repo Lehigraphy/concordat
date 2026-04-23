@@ -1,6 +1,6 @@
 title: "The Concordat"
 description: "Early Fragments"
-remote_theme: pages-themes/midnight
+theme: jekyll-theme-minimal
 
 markdown: kramdown
 kramdown:
