@@ -1,8 +1,8 @@
 title: "The Concordat"
 description: "Early Fragments"
-#theme: minima
+theme: minima
 #remote_theme: jekyll/minima
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
 
 markdown: kramdown
 kramdown:
