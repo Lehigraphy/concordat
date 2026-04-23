@@ -14,3 +14,14 @@ pre, code {
 .markdown-body {
   word-wrap: break-word;
 }
+
+/* Indents */
+p {
+  text-indent: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p + p {
+  margin-top: 0;
+}
