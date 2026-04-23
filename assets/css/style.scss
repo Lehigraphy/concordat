@@ -29,3 +29,10 @@ p + p {
 p:first-of-type {
   text-indent: 0;
 }
+
+/* Scene breaks */
+.scene-break {
+  text-align: center;
+  margin: 2em 0;
+  text-indent: 0;
+}
