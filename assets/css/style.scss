@@ -1,9 +1,7 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+@import "{{ site.theme }}";
 
 p {
   line-height: 1.6;
@@ -19,9 +17,5 @@ pre, code {
 
 
 body {
-  max-width: 650px;
-  margin: auto;
-  line-height: 1.6;
-  font-family: Georgia, serif;
-  color: red;
+  background: red !important;
 }
