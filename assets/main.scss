@@ -16,3 +16,17 @@ p + p {
 p:first-of-type {
   text-indent: 0;
 }
+
+.scene-break {
+  text-align: center;
+  margin: 2em 0;
+  text-indent: 0;
+}
+
+/* bookish look */
+body {
+  max-width: 650px;
+  margin: auto;
+  line-height: 1.6;
+  font-family: Georgia, serif;
+}
