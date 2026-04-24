@@ -30,7 +30,7 @@ He remained watching long after the master of lessons had rung his bell, calling
 
 Downstream of the city, the pool was forming again, untended. It was again depositing silt on the bottom, prompting the pool to spread wider still.
 
-**
+***
 
 ‘The fumes have softened your head,’ the keeper of coin said, smiling but stern. ‘You want us to take on the costliest building effort ever because you saw some kids playing?’
 
@@ -76,7 +76,7 @@ Getting the waste out of the town was only a half of the problem, that was true.
 
 The sparks rose and faded. In the pool, their mirror sank and remained.
 
-**
+***
 
 The water flew. On the streets, running between the cobblestones and curling around the corners of the paving. Then it disappeared.
 
