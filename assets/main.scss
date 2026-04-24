@@ -77,4 +77,19 @@ a {
     color: #ddd;
   }
 }
+@media (prefers-color-scheme: dark) {
+  .site-header {
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #333;
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: #e6e6e6;
+  }
+
+  .site-nav .page-link {
+    color: #e6e6e6;
+  }
+}
 /* *********************************************************** */
