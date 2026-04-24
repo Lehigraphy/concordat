@@ -46,6 +46,8 @@ A bone-jarring slam back down. Stop. A crash like a pile-driver missing its mark
 
 Then the ramp dropped, and time ceased to exist.
 
+**
+
 She was halfway down before she realized she was moving, shield-first. Smoke.
 
 Parapet. Veer left, the rest of her three-suit section at her heels. Kahara would be going right.
@@ -100,6 +102,8 @@ The case hit the floor, bounced once. Scan right first—the non-shield side. Le
 
 Walk.
 
+**
+
 Kera stepped out through the ruined wall. No more contact signals. One RF trace—analog and static. Someone slumped on the transmit handle, probably. The smoke was thinning - the small shells had burned themselves out.
 
 Her breathing became the loudest thing in the world. Her knees felt loose inside the suit. Without it, they would have folded. Gravel crunched underfoot when she shifted.
@@ -110,8 +114,7 @@ A six-wheeler truck with a missile cassette on top had reversed into a building,
 
 Otherwise, the place was a village. A village of flattened cots and brick and stone, pierced by bullets and shells. Homes. Kera hoped the folks had got to their cellars in time. The central keep seemed intact, so at least nobody had been shooting back from there. People still respected that tradition.
 
-
-**
+***
 
 The assault carrier didn't sound any more quiet on the way back to base. The machine had survived the insertion with enough mobility left to carry them home. That was optional, but always a positive. They had secured the village quickly, and the vehicle had picked them up from the main avenue. There had been blood on the tracks. No townsfolk had reappeared in the minutes they had stayed.
 
