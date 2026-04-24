@@ -33,7 +33,7 @@ Outside, a cloud passed in front of the sun, and Rhel saw himself reflected in t
 
 He turned away.
 
-**
+***
 
 After the shift ended, Rhel made his way to the town and then towards the hall and keep. The monthly council meeting was tonight, the cobblestone streets were busy, most people drifting in the same direction.
 
@@ -73,7 +73,7 @@ The woman went through a list of plans, matter of fact. Upgrades to the mine and
 
 The knight was raising questions and objections, one after another. About a planned road intersecting traditional training grounds, and if Karsik festive holidays versus work schedules. The woman was making notes, telling that they would arrange the planned downtimes where possible, but that there were constraints coming from the processes themselves.
 
-**
+***
 
 Rhel snapped awake, gasping for breath and heart hammering. It was dark, and the hands of the clock were glowing faint green. It was a quarter past four. He groaned.
 
@@ -89,7 +89,7 @@ Rhel walked to the sink, head heavy and feet leaden. He opened the tap, and lean
 
 He shaved in the broken mirror some time later. He didn’t know how long it took.
 
-**
+***
 
 Rhel stopped at a cafe on his way to the powerplant. There were a few people in line before him, talking about the planned refinery. Rhel hoped he would find a quiet table hidden in a corner somewhere.
 
@@ -115,7 +115,7 @@ The owner called for the boy. _Good._
 
 After he had gone, Rhel noticed he had spilled his coffee at some point. Good thing the boy had brought the napkin.
 
-**
+***
 
 By evening, Rhel was in the bouting hall. The walls were timber, and lined with furs and paintings. The lord’s banner hung on the rear wall, surrounded by those of knights. He recognized the one hanging next to the lord’s.
 
@@ -162,7 +162,7 @@ Rhel nodded quietly, sharing a look with the boy.
 
 The boy nodded back.
 
-**
+***
 
 The next morning, Rhel was walking under the power line. The engineer in the dark coat was walking next to him, asking questions, making notes on his plate. A man-sized reel of cable was waiting by the transformer station, and Rhel could hear the sounds of earthworking machines being unloaded from trucks.
 
@@ -172,7 +172,7 @@ The next morning, Rhel was walking under the power line. The engineer in the dar
 
 Rhel was thinking of the breaker box. How the casing had split, and bits of ceramics had spilled out.
 
-**
+***
 
 That night, Rhel and the boy slipped through the darkness. The boy had broken two of the light bulbs earlier that night with a slingshot. It was new moon, and Rhel could barely see the boy moving a few meters to his side.
 
