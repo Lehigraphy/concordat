@@ -9,6 +9,8 @@ And he had the worst hangover of his life. His _second_ hangover. He had had his
 
 Then, the squad master arrived, barking a terse command for the squad to follow, and then set off running towards the mountain. _Ancestors save me._
 
+***
+
 He had dreamed of being a breacher since his first apprenticeship, and enlisted as soon as he was legally able. During the apprenticeship — basic training — he'd been worried they'd shuttle him off as a combat engineer or something. His entire family had always been Anvil. When the results finally came, his heart had leapt.
 
 It had been a late afternoon when he finally arrived to the base, got all the forms signed, and found his unit, the third squad of third company. They had just been about to unsuit, helms off, looking every nut and bolt like the promos. The armor had looked even bigger and scarier up close.
@@ -23,6 +25,7 @@ That night, his new squad had been silent around him. So, he'd asked them why br
 
 Sleep had taken a long time to come.
 
+***
 
 He tripped on a root and stumbled on one knee, hurriedly getting up again. The mud had stained his shin a deep reddish brown. The shade brought back memories.
 
@@ -37,9 +40,11 @@ That night, he had spent three hours making replacement tiles from clay. While t
 
 Since then, that had been his evening activity _every_ night after suited drills. The clay dried and cracked his fingers, but the lotion from the infirmary kept it tolerable at least.
 
+***
 
 'Keep up', the master barked. 'Including you, Spare.'
 
+***
 
 Officially, his rank was now a novice, but nobody called him that, let alone by his name. There had been an array of nicknames in the first few days. A strapling. A replacement part. A cargo. Finally, somebody had come up with a spare part, so now he was Spare.
 
@@ -49,6 +54,8 @@ During his first day of movement drills, he had cracked the barrels twice. The t
 
 ‘Don’t worry, boy’, Kahara had said, once. ‘Aest here got feed torn last month. Happens to everyone.’
 ‘You more than others’, Aest had replied.
+
+***
 
 And right now, Spare had finished vomiting in a bush. They'd ran up the mountain until they reached the bell there, and the squad master had kept a truly punishing space. The entire squad was leaning against their knees and sucking in air. All except her, of course. Spare had rang the bell and then staggered to the nearest batch of foliage to empty his...he didn't know what. They hadn't eaten breakfast, and he didn't dare thinking about what he'd ingested last night.
 
@@ -96,6 +103,8 @@ After that, his memories were foggy.
 
 There had been a third round of cups by…perhaps Ott from the first section? Or was it even the squad master? And he had been…dancing? With whom? _By the forebears._ They had arrived back to base somehow, but he didn’t remember passing through the gatehouse at all.
 
+***
+
 They were back to the base now, too, standing in rank again.
 
 The squad master didn’t even seem out of breath. _ Hadn’t she been out with them last night? _
@@ -103,6 +112,8 @@ The squad master didn’t even seem out of breath. _ Hadn’t she been out with 
 ‘Everybody go get some fluids, then suit up for malfunction drills. Practice grounds, fifteen minutes.’ she snapped.
 
 Everybody groaned.
+
+***
 
 The morning went in a haze of headache, malaise, and exhaustion. Visor failure, his vision reduced to a slit. He’d cracked lots of tiles again. Knee actuator lock, limping. Position sensor misfire, his right turning every movement into staggered jolts.
 
@@ -145,6 +156,8 @@ The master was calling again. They’d be doing urban breaching next, alternatin
 
 Groans, again.
 
+***
+
 During the next hour, they breached the same fake village three or four times. His hands were still shaky, but he realized he didn’t feel like he would die any more. Only that he _might_ die.
 
 They changed loadouts and positions each breach. Well, the others did. Spare was supposed to first learn his support role — his section’s Anvil aspect — properly. At least he had a real gun now, the two barrels tinted a slight blue in the sunlight.
@@ -173,6 +186,8 @@ His head didn’t hurt any more.
 Then, she was moving again.
 
 ‘Third squad, gather up. One more thing before the hall.’ That was vague.
+
+***
 
 The hangar was dark and gloomy after the sun. His helmet with its optics was still on his hip, and his eyes took a while to adjust.
 
