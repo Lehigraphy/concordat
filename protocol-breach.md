@@ -3,7 +3,7 @@ layout: page
 title: Protocol Breach
 category: Snippets
 ---
-:::beat
+<div class="beat">
 
 Scan the hallway.  
 
@@ -17,7 +17,7 @@ Fingers on a bra clasp. Slip. Try again.
 
 A hand, hitching up a skirt. Another, pulling down an overall.
 
-:::
+</div>
 
 ***
 
