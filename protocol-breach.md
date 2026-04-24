@@ -3,21 +3,19 @@ layout: page
 title: Protocol Breach
 category: Snippets
 ---
-<div class="beat">
+> Scan the hallway.
+>
+> Clear-move. Quick, to the door.
+> 
+> A storage locker. Sweep the table.
+>
+> Sheets of paper tumbling through the air. A stapler clattering. Loud. Too loud.
+> 
+> Fingers on a bra clasp. Slip. Try again.
+>
+> A hand, hitching up a skirt. Another, pulling down an overall.
 
-<p>Scan the hallway.</p>
 
-<p>Clear-move. Quick, to the door.</p>
-
-<p>A storage locker. Sweep the table.</p>
-
-<p>Sheets of paper tumbling through the air. A stapler clattering. Loud. Too loud.</p> 
-
-<p>Fingers on a bra clasp. Slip. Try again.</p>
-
-<p>A hand, hitching up a skirt. Another, pulling down an overall.</p>
-
-</div>
 
 ***
 
