@@ -11,12 +11,15 @@ He snaked his bike between a tree and a boulder. The handlebars barely fit in th
 
 _His bike._
 
+***
+
 Branik and Zora had been going through different concepts for hours. A four-wheeler ATV. Three-wheelers. A track-and-wheel. Frame steering. Their words had turned clipped, and Taren’s head had turned foggy. The constant rattle and hammering from the workshop hadn’t helped.
 
 He had cleared his throat, clearing it from the airborne dust. The two had turned towards him, Zora’s eyes making him feel like an apprentice again.
 
 ‘Two’, he had uttered. ‘Could it have two?’
 
+***
 
 The signal came. A coded radio burst from the overseer drone, somewhere in the still-dark sky. His visor lit up with symbols.
 
@@ -28,6 +31,7 @@ Taren flicked his fingers, sending another coded burst to the two other bikes of
 
 The bike swayed gently when the front wheel climbed over a large root. _Two wheels._
 
+***
 
 The order had arrived out of the blue one morning four months ago. Summons to the regiment overseer — he had thought he had screwed up massively somewhere. Then, orders assigning him to some kind of a development project.
 
@@ -86,8 +90,9 @@ Again, Branik had scribbled something on the board. Zora had argued operational 
 
 It had been pitch-black when they had left. The workshop had been empty, tools neatly organized on the wall.
 
-The next morning, Zora had already been there when Taren arrived, taking off a long dark brown overcoat. It was worn at the elbows, and the stitching had frayed at places. Underneath, she was wearing the same clothes as yesterday.
+***
 
+The next morning, Zora had already been there when Taren arrived, taking off a long dark brown overcoat. It was worn at the elbows, and the stitching had frayed at places. Underneath, she was wearing the same clothes as yesterday.
 
 They’d begun building the first prototype the same morning. A few workbenches had been moved to make space, Branik issuing calm orders to sweating apprentices. Taren had helped sweep the dust from the floor. Zora had made a call, and a Hammer courier had delivered them four turbines from an autonomous ammo sled.
 
@@ -172,8 +177,9 @@ Zora had taken a tour around the workshop then, fuming silently.
 
 ‘If we fill the tank with foam, any puncture will…’
 
-
 Taren had found himself smiling on his way back that evening. The moon had been high, again. 
+
+***
 
 Taren had barely slept the night before the first test drive. Like a novice before his first breach, he’d laughed in the workshop.
 
@@ -193,6 +199,8 @@ Another silent stare. Then a nod.
 
 They had done endless tests and modifications since, even rebuilding the entire frame twice. By now, Taren was comfortable suggesting new things. Once, he had even wire-sawed some plywood to demonstrate a support he had in mind. He had thought it looked hideous, but Branik had simply nodded.
 
+***
+
 After three months, they had brought in two more breachers as test riders for doctrine fine-tuning. A young man called Kest from Taren’s company, and a woman he had never met. Both had ridden bikes in their past lives. Apprentices had built two identical bikes for them, based on the latest design freeze, while the work continued on Taren’s. It was _his_ bike now.
 
 Field exercises had taken Taren increasingly away from the workshop. They _were_ allowed to train on the valley bottom now, closer to the city, so it wasn’t that bad in the end. Taren remembered the hikes up-valley in his basic training, his heels aching in reminiscence. Afterward, they’d comb through the mission evaluations with Zora, and technical feedback with Branik.
@@ -200,6 +208,8 @@ Field exercises had taken Taren increasingly away from the workshop. They _were_
 Having a gun in his gauntlet again had felt reassuring to Taren. He could see that each artillery battery the bikes would force to relocate, every staging area they disrupted, would save breacher lives. And Anvil and Furnace too, he added.
 
 Yet, he’d often find his mind returning to the workshop. A part of him missed the sound of chalk on board.
+
+***
 
 A low-hanging branch scraped against the bike. Taren’s heart jumped. He stopped for a second, listening. The mortars thumped again, six hundred meters away.
 
@@ -256,6 +266,8 @@ One hundred meters.
 
 Two hundred. Four.
 
+***
+
 The section came together again behind a ridge, a kilometer and a half away. Birds were singing again. There were no more thumbs.
 
 Taren risked a brief status update, voice only. Kest was sure he’d holed the tube of his target with one of his rounds. Otherwise, there were no confirmed hits. Taren would have to speak to Branik about that. 
@@ -263,6 +275,8 @@ Taren risked a brief status update, voice only. Kest was sure he’d holed the t
 They set off towards the pass, turbines whining again. The bike was vibrating gently against Taren’s legs.
 
 Ahead, the ramps would be dropping soon, he mused. He didn’t know anything officially, of course, but he knew breaching. 
+
+***
 
 They met one more time in the overseers office. The workshop was quiet. Peaceful, even. Crates had been dragged in, and multiple bike frames hung from the rear wall.
 
