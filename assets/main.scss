@@ -30,6 +30,12 @@ body {
   line-height: 1.6;
   font-family: Georgia, serif;
 }
+.post-content {
+  font-family: Georgia, serif;
+  max-width: 650px;
+  margin: auto;
+  line-height: 1.6;
+}
 
 /* scene break */
 hr {
@@ -58,6 +64,11 @@ blockquote {
   padding: 0;
   color: inherit;
   font-style: normal;
+  font-family: inherit;
+}
+
+.post-content blockquote {
+  font-family: inherit;
 }
 
 blockquote p {
