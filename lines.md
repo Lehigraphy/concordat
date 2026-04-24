@@ -11,7 +11,9 @@ The man ahead had a long, dark brown overcoat, the same one she had been meaning
 
 Someone behind her was complaining loudly. A merchant, she thought, from the tone and cadence of his voice. This was the third storehouse he'd seen today, just to get a copper pail for his steamhouse. What was so slagging difficult about keeping pails in stock?
 
-_She_ knew. 
+_She_ knew.
+
+***
 
 She had been running projections all week, and the numbers jumped into her mind without asking. With copper yields stagnating, a significant fraction was earmarked for drive motors, and actuators too, driving up the price of what remained for the commodity market. Jewellery and other high value-added goods remained feasible. Pails did not.
 
@@ -21,11 +23,15 @@ She said nothing, though. The Master of Yields had scheduled the review of her a
 
 The apprentice of weighing interrupted her thoughts, calling her to the counter. She hadn't noticed her feet moving with the line.
 
+***
+
 The surveyor was walking towards the chapel now, bread in bag. She spotted the overcoat again, this time on an old lady. The cut was identical, and the lady looked majestic in it. The surveyor decided to finally go get one tomorrow. Today, she didn't have the time — it was a long way to the chapel, and longer still back to the apartment.
 
 Her great aunt had died recently. She had been a seamstress, retiring not long after the last tyrant and then spending her last two decades collecting trinkets and raising cats. The surveyor had only met her a few times, but as her youngest relative old enough to climb the mountains alone, it was her duty to ring the funeral bells. Meaning, she would have to schedule a bell slot at the chapel.
 
 Idly, she remembered one of her cousins working at the textile mill. Maybe he'd got his inspiration from the aunt.
+
+***
 
 There was a small crowd at the chapel when she arrived. A newly-committed triad was coming out the doors, so she joined the people there, whistling and stomping her legs. She'd never seen a triad in person before, she thought, slipping in through the doors after they had gone. It sounded efficient, with three people splitting the housework. Efficient use of living space too, she thought.
 
