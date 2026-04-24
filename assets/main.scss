@@ -30,3 +30,13 @@ body {
   line-height: 1.6;
   font-family: Georgia, serif;
 }
+
+/* scene break */
+hr {
+  border: none;
+  margin: 1.5em 0; /* controls vertical space */
+  height: 0;
+}
+hr + p {
+  text-indent: 0;
+}
