@@ -5,17 +5,17 @@ category: Snippets
 ---
 <div class="beat">
 
-Scan the hallway.  
+<p>Scan the hallway.</p>
 
-Clear-move. Quick, to the door.  
+<p>Clear-move. Quick, to the door.</p>
 
-A storage locker. Sweep the table.  
+<p>A storage locker. Sweep the table.</p>
 
-Sheets of paper tumbling through the air. A stapler clattering. Loud. Too loud.  
+<p>Sheets of paper tumbling through the air. A stapler clattering. Loud. Too loud.</p> 
 
-Fingers on a bra clasp. Slip. Try again.  
+<p>Fingers on a bra clasp. Slip. Try again.</p>
 
-A hand, hitching up a skirt. Another, pulling down an overall.
+<p>A hand, hitching up a skirt. Another, pulling down an overall.
 
 </div>
 
