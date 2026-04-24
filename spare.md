@@ -29,6 +29,7 @@ Sleep had taken a long time to come.
 
 He tripped on a root and stumbled on one knee, hurriedly getting up again. The mud had stained his shin a deep reddish brown. The shade brought back memories.
 
+***
 
 He had received his suit on his second day. It had looked like...pottery. Instead of the smooth dark-grey tiles of armor he'd the others wear, it had mishapen blocks of...brick. Discoloured reddish-orange, uneven edges. None of the pieces had looked correct.
 
