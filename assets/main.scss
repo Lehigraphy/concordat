@@ -61,6 +61,9 @@ hr + p {
 blockquote {
   all: unset;
 }
+blockquote p {
+  text-indent: 0 !important;
+}
 
 /* *********************************************************** */
 /* DANK MODE */
