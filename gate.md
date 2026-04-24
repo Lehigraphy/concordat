@@ -13,7 +13,7 @@ He had expected them at the valley passes, or the river crossings. Not here. Not
 
 Still, they couldn't hope to win. He had already sent pigeons to his bannermen, and relief would be arriving in a few days. In the meantime, they only had to beat them back at the walls. It would be bloody, but war always was.
 
-**
+***
 
 The ram kept creeping closer. Arrows and rocks simply bounced from the angled plates. Once, a ballista had hit a plate straight-on and penetrated half-way, but the thing hadn't even faltered in its approach.
 
@@ -21,11 +21,11 @@ At the same time, the foundries had clearly brought enough archers to make any s
 
 They could do that. The warriors inside the ram would be exhausted after hauling what must surely be tonnes of iron uphill.
 
-**
+***
 
 The drawbar splintered, and the gate was pried open. The High King's men took up his battlecry.
 
-**
+***
 
 The High King swung his poleaxe, bringing down his opponent. _By the gods_ they took some killing. The blow hadn't even pierced the helm, he thought, panting. The man-at-arms would be getting up come night, with nothing but a nasty headache.
 
@@ -75,7 +75,7 @@ Slowly, using his polearm to support his exhausted legs, the High King sank to h
 
 The man with the three hammers nodded once.
 
-**
+***
 
 More of his men would live than he had feared. Those with pierced guts or bubbling chests were granted mercy when they wished, but those with cuts and tears were...getting better. The foundry army had brought healers with them, and insisted on treating his warriors in addition to theirs. They had washed the wounds, and then covered them with bandages stinking of cellar and old bread. He had been aghast at such practices, but he wasn't really in a position to decline. Impossibly, very few of the wounds had festered.
 
