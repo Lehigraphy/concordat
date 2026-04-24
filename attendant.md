@@ -21,7 +21,7 @@ Counting was his work, and he was good at it. Counting citizens meant knowing ho
 
 Now, he didn’t know anymore.
 
-**
+***
 
 He was sitting in his room, going over his notes, a jug of ale untouched on the table.
 
@@ -45,7 +45,7 @@ He would go through other books tomorrow. Walk through the storerooms and eateri
 
 He had also considered the smoke, for a while. The air was clearly more acrid here, stinging his eyes. Smoke stuck to walls and often made old foundry workers cough up black phlegm. That did not look like health.
 
-**
+***
 
 Fevers.
 
@@ -57,7 +57,7 @@ Fewer mothers, too. He had missed that earlier. The difference was small, but it
 
 Last year, a trader had sailed in with a book on comparing numbers properly, not just counting them. It had been hideously expensive, and the counter had been forced to decline. Now, though - maybe he could use his findings to make a case for the cost. He could have spotted the mothers earlier.
 
-**
+***
 
 Three nights later, he thought he had found the reason. He had gone through the birth records, talked to the mothers, taking notes. Where had they given birth? What had they eaten? Who was attending? What was the father doing?
 
@@ -73,7 +73,7 @@ Well, his presence wasn’t what made babies live, the counter thought, sipping 
 
 He didn’t know what did. But he was the only thing the mothers had in common, as far as he could see.
 
-**
+***
 
 He met the young man at the foundry the next morning. A boy, more like.
 
@@ -95,7 +95,7 @@ Fevers did not come from air.
 
 They came from contact.
 
-**
+***
 
 The numbers were off, but he had expected as much. He had brought up his first observations in the hall. The fire had burned in the pit in the center, casting the faces around in an orange and red relief. He had talked through the steps he had taken, and showed them the numbers. They had taken notes, asked a few questions.
 
