@@ -57,7 +57,7 @@ Kera took her helmet in her left gauntlet, running her right across her face and
 
 She let her arm drop down, adjusting for the minuscule change in suit balance without noticing. Her forehead felt raw.
 
-**
+***
 
 The sun was setting when they gathered in the hangar again. She had her maintenance uniform on, dark green with old stains from oil and grease. There were a few lighter batches from ceramic dust. Everyone had.
 
@@ -79,7 +79,7 @@ Kera turned her eyes. The knuckles of her gun-hand were white on the rung.
 
 Kera found herself chuckling and shaking her head a little. She continued her way up.
 
-**
+***
 
 One by one, the squad followed her, gathering on top of the carrier. Dalen began lighting the small brazier, blowing at the charcoal to make the fire catch. The smell of woodsmoke began to mix with the oil and burnt fuel of the vehicle.
 
@@ -148,7 +148,7 @@ She continued her work, easing the chisel a fraction under each mound, then turn
 
 The scrape of the chisel slowly hid any other sound.
 
-**
+***
 
 The brazier had gone cold when she was finished and back on her feet, the back of her neck aching and trembling from the effort. The scent of woodsmoke still  lingered in the air. Master Dalen had come to check her work, getting on one knee on the glacis and then nodding once.
 
