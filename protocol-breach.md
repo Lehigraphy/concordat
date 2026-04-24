@@ -15,7 +15,7 @@ category: Snippets
 
 <p>Fingers on a bra clasp. Slip. Try again.</p>
 
-<p>A hand, hitching up a skirt. Another, pulling down an overall.
+<p>A hand, hitching up a skirt. Another, pulling down an overall.</p>
 
 </div>
 
