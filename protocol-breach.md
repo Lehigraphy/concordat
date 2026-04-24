@@ -3,6 +3,7 @@ layout: page
 title: Protocol Breach
 category: Snippets
 ---
+:::beat
 Scan the hallway.  
 
 Clear-move. Quick, to the door.  
@@ -13,7 +14,8 @@ Sheets of paper tumbling through the air. A stapler clattering. Loud. Too loud.
 
 Fingers on a bra clasp. Slip. Try again.  
 
-A hand, hitching up a skirt. Another, pulling down an overall.  
+A hand, hitching up a skirt. Another, pulling down an overall.
+:::
 
 ***
 
