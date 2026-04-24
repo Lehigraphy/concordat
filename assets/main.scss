@@ -41,6 +41,16 @@ hr + p {
   text-indent: 0;
 }
 
+/* non-indented beat */
+.beat p {
+  text-indent: 0;
+  margin: 0;
+}
+
+.beat p + p {
+  margin-top: 0.3em;
+}
+
 /* *********************************************************** */
 /* DANK MODE */
 /* Default (light mode) */
