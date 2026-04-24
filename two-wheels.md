@@ -57,6 +57,8 @@ Another fifteen minutes, and Zora and the engineer—Branik—were immersed in a
 
 To his surprise, he could piece together the idea beneath, despite all the technical and doctrinal claptrap. A vehicle for movement, probing, retreat, regrouping. A vehicle for a breacher.
 
+***
+
 It had been the evening bell when he’d finally opened his mouth, without Zora or Branik first asking him about weight distribution or fire arcs.
 
 ‘Could it have two?’
