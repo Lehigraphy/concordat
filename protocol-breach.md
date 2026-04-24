@@ -3,17 +3,19 @@ layout: page
 title: Protocol Breach
 category: Snippets
 ---
-Scan the hallway.
+Scan the hallway.  
 
-Clear-move. Quick, to the door.
+Clear-move. Quick, to the door.  
 
-A storage locker. Sweep the table.
+A storage locker. Sweep the table.  
 
-Sheets of paper tumbling through the air. A stapler clattering. Loud. Too loud.
+Sheets of paper tumbling through the air. A stapler clattering. Loud. Too loud.  
 
-Fingers on a bra clasp. Slip. Try again.
+Fingers on a bra clasp. Slip. Try again.  
 
-A hand, hitching up a skirt. Another, pulling down an overall.
+A hand, hitching up a skirt. Another, pulling down an overall.  
+
+***
 
 Afterward, they remained still for a moment, clutching each other, their breathing suddenly the loudest thing in the world. She tasted of coffee and paper; he smelled of oil and steel. Her heel caressed the back of his knee, like a raindrop sliding down a window. His fingers remained on her neck, protective, the tips trembling a little. 
 
