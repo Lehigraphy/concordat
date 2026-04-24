@@ -46,7 +46,7 @@ A bone-jarring slam back down. Stop. A crash like a pile-driver missing its mark
 
 Then the ramp dropped, and time ceased to exist.
 
-**
+***
 
 She was halfway down before she realized she was moving, shield-first. Smoke.
 
@@ -102,7 +102,7 @@ The case hit the floor, bounced once. Scan right first—the non-shield side. Le
 
 Walk.
 
-**
+***
 
 Kera stepped out through the ruined wall. No more contact signals. One RF trace—analog and static. Someone slumped on the transmit handle, probably. The smoke was thinning - the small shells had burned themselves out.
 
