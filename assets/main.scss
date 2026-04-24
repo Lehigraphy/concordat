@@ -63,29 +63,33 @@ blockquote {
   margin: 0;
   padding: 0;
   color: inherit;
-  font-style: inherit;
-  font-family: inherit;
+  font-style: inherit !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
 }
 
 .post-content blockquote {
   color: inherit;
-  font-style: inherit;
-  font-family: inherit;
+  font-style: inherit !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
 }
 
 blockquote p {
   text-indent: 0;
   margin: 0;
   color: inherit;
-  font-style: inherit;
-  font-family: inherit;
+  font-style: inherit !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
 }
 
 blockquote p + p {
   margin-top: 0.3em;
   color: inherit;
-  font-style: inherit;
-  font-family: inherit;
+  font-style: inherit !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
 }
 
 /* *********************************************************** */
