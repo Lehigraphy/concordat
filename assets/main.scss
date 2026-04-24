@@ -71,4 +71,10 @@ a {
     border-color: #333;
   }
 }
+@media (prefers-color-scheme: dark) {
+  pre, code {
+    background-color: #1e1e1e;
+    color: #ddd;
+  }
+}
 /* *********************************************************** */
