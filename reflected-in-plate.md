@@ -5,7 +5,7 @@ category: Snippets
 ---
 They would burn the bodies with the others. Perhaps the city would live.
 
-**
+***
 
 The plague had come with the meltwaters. An affliction of the gut. Fever followed, within a week.
 
@@ -19,11 +19,11 @@ All had been too late.
 
 Half the city was sick already.
 
-**
+***
 
 The wallbreakers were washing their swords and armor, helms still on.
 
-**
+***
 
 The trader had arrived a few days after the first cases. Said he had mold that cured the plague, and parchments telling how to make more. 
 
@@ -35,11 +35,11 @@ They had offered to pay later. More, even, in the next three springs.
 
 The trader had declined. Said the city might still die, that it might be too late already—and he would be ruined with it.
 
-**
+***
 
 They were standing in line again, helmed and spotless.
 
-**
+***
 
 That night, he had called the wallbreakers. Quietly.
 
@@ -57,7 +57,7 @@ The third, to the sleeping caravan.
 
 None had hesitated. All had friends and family sick.
 
-**
+***
 
 The wallbreakers had gone now. One by one. Unknown.
 
