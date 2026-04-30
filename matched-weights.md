@@ -115,6 +115,7 @@ The maker blinked, leaning forwards. He must have misunderstood. It usually took
 ‘You’ll have to pay me in advance, though. Pay me now’, he’d clarified after the trader’s questioning expression. ‘Sometimes traders never come back.’ It would take him years to sell fourteen pairs if that happened.
 
 ‘But if you disappear? Take my silver and go?’
+
 ‘So the word of a valley-born is not enough now?’ the maker had asked, smiling.
 
 He had woken up slumped over his table the next morning, with the worst bottle-ache in ages. The weights had gone, and a pile of silver had replaced them on the table. Silver, and empty bottles of brown glass. Mied, the trader had called it. Or moid, or something. Just thinking about the liquid made his stomach turn. He wouldn’t be making jewellery today.
