@@ -1,5 +1,3 @@
-# The Concordat
-
 ## Accounts
 - [The First Breach](The First Breach)
 - [Gorge](Gorge)
