@@ -102,7 +102,7 @@ Yes, they were using them across the valley. He had sold over ten pairs by then.
 
 ‘Thirty silver for a pair.’ The maker had lifted two weights to the table, and demonstrated the sum with his fingers and a coin. He could have asked for more, he wagered, but making the trade was more important than the coin. The boat-traders travelled far and saw a lot, and having one carry his weights would be the talk of the valley for some time.
 
-‘No. Too much.’ The maker had smiled back politely, and prepared for a long session of bargaining. As expected. He had seen people of different traditions pass through the valley, but none liked to haggle like the ice-born. But the trader had continued before he’d got his mouth open.
+‘No. Too much.’ The maker had smiled back politely, and prepared for a long session of bargaining. As expected. He had seen people of different traditions pass through the valley, and none liked to haggle like the ice-born. But the trader had continued before he’d got his mouth open.
 
 ‘Two-ten of silver for two weights,’ he said, his palm thumping against the desk. ‘A pair of weights, yes? I will buy two-ten pairs. Pay you four hundred silver.’ A show of fingers.
 
