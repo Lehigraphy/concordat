@@ -270,7 +270,7 @@ Two hundred. Four.
 
 ***
 
-The section came together again behind a ridge, a kilometer and a half away. Birds were singing again. There were no more thumbs.
+The section came together again behind a ridge, a kilometer and a half away. Birds were singing again. There were no more thumps.
 
 Taren risked a brief status update, voice only. Kest was sure he’d holed the tube of his target with one of his rounds. Otherwise, there were no confirmed hits. Taren would have to speak to Branik about that. 
 
