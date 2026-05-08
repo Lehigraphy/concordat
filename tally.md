@@ -81,9 +81,9 @@ Kera found herself chuckling and shaking her head a little. She continued her wa
 
 ***
 
-One by one, the squad followed her, gathering on top of the carrier. Dalen began lighting the small brazier, blowing at the charcoal to make the fire catch. The smell of woodsmoke began to mix with the oil and burnt fuel of the vehicle.
+One by one, the squad followed her, gathering on top of the carrier. Dalen began lighting the forgepot, blowing at the charcoal to make the fire catch. Kera didn't know when it had been brought up. She hadn't seen anybody haul it up the ladder, so probably some maintenance apprentice had hoisted it when they were gone. The smell of woodsmoke began to mix with the oil and burnt fuel of the vehicle. Dalen pulled at the lanyard a few times, spinning up the flywheel and the fan. The goals began to glow yellow-white.
 
-The brazier would soon heat up the etching compound to working temperature. Kahara could have taught them every small bit of its history, Kera was sure. Best to make sure he never got the excuse.
+The pot would soon heat up the etching compound to working temperature. Kahara could have taught them every small bit of its history, Kera was sure. Best to make sure he never got the excuse.
 
 The frontal third of the carrier roof was sloped. It was slightly uncomfortable under her feet, but she could still walk to the upper edge of the glacis. There, she had to get on all fours to proceed, and finally crawl a bit on her belly to actually reach the row of tally-marks without rolling over and falling down. She’d have to etch them upside down, she realized, biting down a curse. She hadn’t practiced _that_.
 
@@ -150,7 +150,7 @@ The scrape of the chisel slowly hid any other sound.
 
 ***
 
-The brazier had gone cold when she was finished and back on her feet, the back of her neck aching and trembling from the effort. The scent of woodsmoke still  lingered in the air. Master Dalen had come to check her work, getting on one knee on the glacis and then nodding once.
+The forgepot had gone cold when she was finished and back on her feet, the back of her neck aching and trembling from the effort. The scent of woodsmoke still  lingered in the air. Master Dalen had come to check her work, getting on one knee on the glacis and then nodding once.
 
 Kera was the first to climb down the ladder. Kahara was supporting the rails from the above, saying he’d felt them slip on his way up. She passed the crater on the carrier’s side without stopping.
 
