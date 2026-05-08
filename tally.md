@@ -89,7 +89,7 @@ The frontal third of the carrier roof was sloped. It was slightly uncomfortable 
 
 Kera inched the last span forward. Ott was now supporting her from her ankles so that she wouldn’t slide off. She could just reach the row of tally symbols, feeling the roughened metal under her fingertips. Somebody handed the etching pen into her outstretched hand. The master, probably. The pen felt hot to the touch, the heat from the compound inside carrying through the insulation.
 
-The squad fell silent somewhere behind and above her.
+The squad fell silent somewhere behind and above her. Only the forgepot whirred, slowly falling in pitch until somebody gave it another yank.
 
 Kera visualized the symbols in her head, trying to translate the image into where she should first place the tip. The first dot would go there, and the first line would follow it, parallel to the glacis. She went through her reasoning twice, and practiced the pattern by tracing her finger against the metal. Deciding she wouldn’t get any more sure than that, she began.
 
