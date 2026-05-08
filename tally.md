@@ -81,7 +81,7 @@ Kera found herself chuckling and shaking her head a little. She continued her wa
 
 ***
 
-One by one, the squad followed her, gathering on top of the carrier. Dalen began lighting the forgepot, blowing at the charcoal to make the fire catch. Kera didn't know when it had been brought up. She hadn't seen anybody haul it up the ladder, so probably some maintenance apprentice had hoisted it when they were gone. The smell of woodsmoke began to mix with the oil and burnt fuel of the vehicle. Dalen pulled at the lanyard a few times, spinning up the flywheel and the fan. The goals began to glow yellow-white.
+One by one, the squad followed her, gathering on top of the carrier. Dalen began lighting the forgepot, blowing at the charcoal to make the fire catch. Kera didn't know when it had been brought up. She hadn't seen anybody haul it up the ladder, so probably some maintenance apprentice had hoisted it while they were away. The smell of woodsmoke began to mix with the oil and burnt fuel of the vehicle. Dalen pulled at the lanyard a few times, spinning up the flywheel and the fan. The goals began to glow yellow-white.
 
 The pot would soon heat up the etching compound to working temperature. Kahara could have taught them every small bit of its history, Kera was sure. Best to make sure he never got the excuse.
 
