@@ -49,7 +49,7 @@ Since then, that had been his evening activity _every_ night after suited drills
 
 Officially, his rank was now a novice, but nobody called him that, let alone by his name. There had been an array of nicknames in the first few days. A strapling. A replacement part. A cargo. Finally, somebody had come up with a spare part, so now he was Spare.
 
-After a week, he'd joined his squad in training, in his brickhouse armor. And his stick. _Breacher support gun, mock-up._ It was almost as tall as he was, and was surprisingly detailed with twin broomstick barrels and a plywood belt feed. But it was wooden.
+After a week, he'd joined his squad in training, in his brickhouse armor. And his stick. _Breacher support gun, mock-up._ It was almost as tall as he was, and was surprisingly detailed with twin broomstick barrels and plywood belt feeds. But it was wooden.
 
 During his first day of movement drills, he had cracked the barrels twice. The thing was huge and unwieldy, and he was still getting used to the forces his armor could excert. The first time, he’d whipped it against a doorframe. The second time, he'd bent it against his leg while crouching.
 
