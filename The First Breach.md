@@ -52,7 +52,7 @@ She was halfway down before she realized she was moving, shield-first. Smoke.
 
 Parapet. Veer left, the rest of her three-suit section at her heels. Kahara would be going right.
 
-Stop at the edge of the plough. Aest would be slotting his two-barrel bruiser into the right plough-slot.
+Stop at the edge of the plough. Aest would be slotting his two-barrel crusher into the right plough-slot.
 
 Wait for the go-signal. If they had anything heavier than squad-support sighted, this was where she would die.
 
@@ -70,7 +70,7 @@ Without her neck actuators, it would have broken her neck. Without her helmet, h
 
 She re-aligned the shield—slow, almost too slow—then crouched and braced. Impacts hammered it, driving her back half a step. Her lungs wouldn’t work. She took aim, visor-only.
 
-The machine-gun nest came apart like a bad dam in spring. It took a breath to realize it was men that tumbled out, not concrete and ice. Aest had brought the bruiser to bear.
+The machine-gun nest came apart like a bad dam in spring. It took a breath to realize it was men that tumbled out, not concrete and ice. Aest had brought the crusher to bear.
 
 Re-orient.
 
