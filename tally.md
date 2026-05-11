@@ -35,7 +35,7 @@ Kera clicked an acknowledgement over the radio. He was right, though. What if sh
 
 She took a few more steps, careful now, walking to the side of the carrier.
 
-She stopped and lowered herself on one knee, resting her shield on the floor. Her rifle went on top of it. _13-mil bore. 15-grain smokeless charge._ She never left it on the ground or dirt, and never more than a pace away from her. She’d learned that lesson during her first week.
+She stopped and lowered herself on one knee, resting her shield on the floor. Her rifle went on top of it. _13-mil bore. 60-grain bullet._ She never left it on the ground or dirt, and never more than a pace away from her. She’d learned that lesson during her first week.
 
 Her leg actuators hissed as she straightened, a high-pitch vibration more sensed than heard. She reached up with her now-free hands, unclamping the two seals on her gorget. The helmet scraped at her cheeks as she pulled it off. A few strands of hair fell on her face, lank and wet. The air felt cool.
 
