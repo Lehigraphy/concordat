@@ -96,7 +96,7 @@ Then she squeezed the trigger, and the boy stopped looking like anything at all.
 
 Again. Again. Again. Bodies tumbling, twisting, dropping. Red brackets blinking out, one by one. The wall behind becoming a sieve.
 
-A brass case the length of her hand bounced back from something. For a moment it glinted like her uncle’s gold jewellery in the sun. In her dazzler’s beam. No sun here.
+A tubular brass case the length of her hand bounced back from something. It was as thick as her finger. For a moment it glinted like her uncle’s gold jewellery in the sun. In her dazzler’s beam. No sun here.
 
 The case hit the floor, bounced once. Scan right first—the non-shield side. Left. No contacts. Gesture-signal the squad. Reload.
 
