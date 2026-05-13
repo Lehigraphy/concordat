@@ -68,7 +68,7 @@ Something slammed into her head and snapped it sideways. Heavy machine-gun nest,
 
 Without her neck actuators, it would have broken her neck. Without her helmet, her parents and little brother would have had to say their goodbyes to a photograph on a closed coffin.
 
-She re-aligned the shield—slow, almost too slow—then crouched and braced. Impacts hammered it, driving her back half a step. Her lungs wouldn’t work. She took aim, visor-only.
+She re-aligned the shield—slow, almost too slow—then crouched and braced. Impacts hammered it, driving her back half a step. Her lungs wouldn’t work. She took aim, visor-only, the image grainy and laggy.
 
 The machine-gun nest came apart like a bad dam in spring. It took a breath to realize it was men that tumbled out, not concrete and ice. Aest had brought the crusher to bear.
 
