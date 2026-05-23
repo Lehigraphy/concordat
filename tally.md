@@ -5,7 +5,7 @@ category: Accounts
 ---
 The ramp slammed down with a metallic clang, reverberating in the hangar. Kera felt the carrier rock back as it did, the hydraulics powerful even at their non-combat setting. Her suit swayed around her a little, held back by the restraints. A flicker in the corner of her eye caught her attention, and her head snapped around. Just the light from the door catching on Kahara’s helmet. Just the light.
 
-Then they were filtering out of the crew bay. Kahara went first, Kera following half a pace behind him, in lockstep. Just like…before, or in training, more times than she could count. Then she was on the ramp, ringing underneath her soles, metal on metal. Her visor flashed amber, for a hollow space underneath detected by the seismics.
+Then they were filing out of the crew bay. Kahara went first, Kera following half a pace behind him, in lockstep. Just like…before, or in training, more times than she could count. Then she was on the ramp, ringing underneath her soles, metal on metal. Her visor flashed amber, for a hollow space underneath detected by the seismics.
 
 Kera felt her heartbeat picking up in response.
 
