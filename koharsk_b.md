@@ -192,4 +192,6 @@ Then Dalen was all command again, issuing a command to unhelm, for real this tim
 
 In the midst of it, Kera remained standing at rest. Her eyes switched between the plaque and Dalen, expectant. Kahara watched her from the corner of his eye, trying and failing not to smile. He wondered how long it would take. Then the realization hit, and her face lit. Fast, again. He had stood like an idiot for at least half a minute when it was him holding the commemorative plaque. Hurriedly, she stowed it in her utility pouch, and bent over to pick her rifle and shield. It all happened in one, fluid movement. Not a trace of conscious balancing showed.
 
-The clumsy novice was gone. She was Kera.
+The clumsy novice was gone. 
+
+She was Kera.
