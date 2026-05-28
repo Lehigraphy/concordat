@@ -94,7 +94,7 @@ And it was aimed straight at the first section. At Kera, on point, who was about
 
 Kahara acted before the realization had fully formed in his mind. His arms pushed forward, fists clenching, a spotting gesture that would be shared and evaluated by every processor on his squad. His trigger finger curled, even if he knew the shot would be too late, that the bullet would bury itself harmlessly into the sand. His mouth opened for a desperate cry of a warning.
 
-‘_**K**–.’
+‘_**K**_–.’
 
 Everything slowed down. His throat had only constricted to form the beginnings of the first phoneme when the gun spoke. A flame the length of an arm leapt from the barrel, its fingers curling from and around the perforations at the end. Sparks flew and slowed, spinning in the wavefront of displaced air. The retort reached him a fraction later, a deep rolling thunder that seemed to go on and on. It wasn’t unlike Aest’s crusher. Sharper, perhaps, the gun trading momentum for velocity, but immensely powerful all the same.
 
