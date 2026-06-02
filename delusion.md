@@ -4,7 +4,7 @@ title: Delusion
 category: Snippets
 ---
 
-so. Requisitioning a new terminal would take months. Outside his sole window, a cloud moved across the moon and the shadows in his room shifted. He tried and failed to not think about iron moving in the dark. A shiver rippled down his spine. Was it cold here, or hot?
+The Count had started raving today. It sounded like a simple occurrence in his line of work, yet this one resisted putting itself in a report. For the third time, he erased all he had written. He hammered at the key, then chided himself for doing so. Requisitioning a new terminal would take months. Outside his sole window, a cloud moved across the moon and the shadows in his room shifted. He tried and failed to not think about iron moving in the dark. A shiver rippled down his spine. Was it cold here, or hot?
 
 It was…impossible, yet the Count had screamed it in front of his very eyes, veins bulging as four wardens struggled to restrain him. The old man’s sickness had always been so benign, even if it was stubborn. The doctor would have sent him home decades ago, if not for his stubborn conviction that his _courtiers_ take care of the boring practicalities like clothing and feeding him. Yet the things he rambled about today had genuinely frightened him.
 
