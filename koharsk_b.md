@@ -188,7 +188,7 @@ Then Dalen was all command again, issuing a command to unhelm, for real this tim
 
 ‘Since the Foundry States, then.’ Kahara felt Ott rolling his eyes. Maybe he’d actually get that extra watch tonight. Worth it. Kera flipped the tile around, eyes widening a fraction as she found the lettering. Her lower lip quivered a little. For a moment, the silence stretched again.
 
-‘Maintenance now,’ Dalen went. ‘Move out, breachers.’ Five suits of armor moved in unison, locking helms to hips and picking up weapons. Clamps locked shut, hundreds of kilos of material scraped and brushed against itself, and electromagnetic torque and hydraulic pressure pushed damped bootsoles against concrete.
+‘Maintenance now,’ Dalen went. ‘Move out, breachers.’ Five suits of armor moved in unison, locking helms to hips and picking up weapons. Clamps locked shut, hundreds of kilos of material scraped and brushed against itself, and hydraulically amplified electromagnetic torque pushed damped bootsoles against concrete.
 
 In the midst of it, Kera remained standing at rest. Her eyes switched between the plaque and Dalen, expectant. Kahara watched her from the corner of his eye, trying and failing not to smile. He wondered how long it would take. Then the realization hit, and her face lit. Fast, again. He had stood like an idiot for at least half a minute when it was him holding the commemorative plaque. Hurriedly, she stowed it in her utility pouch, and bent over to pick her rifle and shield. It all happened in one, fluid movement. Not a trace of conscious balancing showed.
 
