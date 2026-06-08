@@ -19,6 +19,7 @@
 
 ### Friction
 - [Protocol Breach](protocol-breach)
+- [Delusion](delusion)
 
 ### Arcs of Concordance
 - [Fire](fire)
