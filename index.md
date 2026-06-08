@@ -8,6 +8,8 @@
 - [Two Wheels](two-wheels)
 - [Low Inertia](low-inertia)
 - [Tally](tally)
+- [Koharsk B](koharsk_b)
+- [Thirteen](thirteen)
 
 ## Snippets
 ### Arcs of Alignment
