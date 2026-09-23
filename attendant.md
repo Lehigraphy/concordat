@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Attendant
-category: Snippets
 ---
 The numbers were off.
 
