@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Koharsk B
-category: Accounts
 ---
 
 Kahara was worried about Proto. The novice, he corrected himself. Kera.
