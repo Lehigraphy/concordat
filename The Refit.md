@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Standard Sizes
-category: Accounts
-order:  1
 ---
 Forge Master Paros had nodded goodbye to the last overseer… thirteen minutes ago, according to his pocket watch. The forge seemed larger now. The workers—apprentices and masters alike—had sweated and grunted all day to dismount the workbenches and dismantle the machines. Now, all that remained were dark rectangles where the floor had not been worn smooth by countless steps. Roughly fifty million of them since the panels were last replaced, by Paros’s count.
 
