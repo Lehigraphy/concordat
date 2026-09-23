@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Preacher
-category: Snippets
-order:  3
 ---
 The young man was fulminating on his box, in the middle of the central square. The Mountain would rumble and shake, burying the defilers and all those who had debased themselves with them under untold tonnes of rock.
 
