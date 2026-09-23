@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Protocol Breach
-category: Snippets
 ---
 > Scan the hallway.
 >
