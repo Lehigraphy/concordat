@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reflected in Glass
-category: Snippets
 ---
 They would burn his body with the others. 
 
