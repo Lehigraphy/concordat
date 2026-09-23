@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Tally
-category: Accounts
 ---
 The ramp slammed down with a metallic clang, reverberating in the hangar. Kera felt the carrier rock back as it did, the hydraulics powerful even at their non-combat setting. Her suit swayed around her a little, held back by the restraints. A flicker in the corner of her eye caught her attention, and her head snapped around. Just the light from the door catching on Kahara’s helmet. Just the light.
 
