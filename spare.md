@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Spare
-category: Campaign Accounts
 ---
 He was standing in rank, legs shaky, head swimming and stomach churning. The _alarm_ had come before sunrise, though even he had realized it was yet another drill. Third squad, his squad, had stumbled out, and now they were standing in attention on the yards before their quarters. They were wearing their jumpsuits, and shivering in the morning drizzle.
 
