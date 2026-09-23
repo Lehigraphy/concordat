@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Low Inertia
-category: Accounts
 ---
 
 
