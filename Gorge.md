@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Gorge
-category: Campaign Accounts
-order:  2
 ---
 The dam seemed to stretch all the way to the horizon. To Rhel, it was as good as home. He had been a powerplant technician all his life, like his father and grandfather had been. The infrasonic thrum of the thousands of tonnes of water passing through the turbines was the heartbeat of his life.
 
