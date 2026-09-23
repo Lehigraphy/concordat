@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Fire
-category: Snippets
 ---
 
 The smith turned the misshapen lump in his hands. The metal felt…incorrect. The texture was different, and the edges caught his callouses in an unfamiliar way.
