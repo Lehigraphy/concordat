@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reflected in Plate
-category: Snippets
 ---
 They would burn the bodies with the others. Perhaps the city would live.
 
