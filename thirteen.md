@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Thirteen
-category: Campaign Accounts
 ---
 
 ## Medic
