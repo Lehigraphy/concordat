@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Line
-category: Snippets
-order:  1
 ---
 That morning, Ma had sent him out to get some bread from the church, so now he was standing in a line in the freezing air, surely a thousand people in front of him, strange men with dark helmets and transparent shields watching his every move. Pa would be finally coming home today, and then everything would be good again. He had pushed his hands into the pockets of his coat, making the sleeves bunch up around his wrists and elbows. The bells were stilling tolling, and the air smelled weird, like their new shed mixed with fireworks and cooking. Something crunched underfoot each time the line edged forwards, two steps at a time for him. Somebody began shouting, and the people ahead of him stirred, pushing the boy back a step. He turned his head, just in time a bottle spinning through the air, glinting, warm yellow and orange flickering.
 
