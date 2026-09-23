@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Matched Weights
-category: Snippets
 ---
 
 The maker held the beginning and the end on his cupped palms. Both weighed the same, after all that was the point of their very existence. One thousand grains, or a _kilo_ as they were supposed to be called today. The same as a tall pint of ale, or two dozen eggs. He knew the beginning was accurate to one tenth of a grain. By the feel of it, the end was too, he had to admit.
