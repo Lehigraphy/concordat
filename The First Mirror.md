@@ -1,8 +1,6 @@
 ---
 layout: page
 title: The First Mirror
-category: Fragments
-order:  1
 ---
 
 >
