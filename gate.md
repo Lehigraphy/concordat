@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Gate
-category: Snippets
 ---
 The High King watched the besieging force with irritation. The foundry people had outsmarted him, and he prided himself on being smart. It was how he had ascended the throne before his brother, after all.
 
