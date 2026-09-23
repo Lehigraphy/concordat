@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Apprentice
-category: Snippets
-order:  4
 ---
 The boy walked to the workshop, steps light and brisk. He was going to be Anvil. "_Going to that Anvil school_," according to his parents. They didn't understand anything. 
 
