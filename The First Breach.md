@@ -1,8 +1,6 @@
 ---
 layout: page
 title: The First Breach
-category: Campaign Accounts
-order:  1
 ---
 ‘Thirty seconds to ramp’, came the driver’s announcement, matter-of-fact. 
 
