@@ -1,3 +1,9 @@
+---
+layout: home
+title: The Concordat
+description: Keeping the furnace lit.
+---
+
 ## Accounts
 - [The First Breach](The First Breach)
 - [Gorge](Gorge)
