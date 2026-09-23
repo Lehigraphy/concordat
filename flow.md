@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Flow
-category: Snippets
 ---
 
 The water flew.
