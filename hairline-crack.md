@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hairline Crack
-category: Snippets
 ---
 
 Rhel was shaving in the broken mirror. The pieces were not aligned, and his reflections overlapped. A piece was missing from the center.
