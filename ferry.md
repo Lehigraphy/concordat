@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Ferry
-category: Snippets
-order:  1
 ---
 
 ‘Morning, master. Three tickets please. One regular, two return.’
