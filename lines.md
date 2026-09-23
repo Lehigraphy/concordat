@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lines
-category: Snippets
 ---
 The girl stood in the line. A woman, she corrected herself. She had completed her third apprenticeship a month ago, and was now a Journeywoman, a Surveyor of Yields. It was a rare position — few in Furnace possessed the raw talent for numbers, and the grit required to refine it to the necessary level. That was a fact, she thought, no false pride there. Well, maybe a trace amount of pride, she smiled.
 
