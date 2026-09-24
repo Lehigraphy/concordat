@@ -11,7 +11,7 @@ Rovan counted the coins and lowered them onto the counter of the ticket booth. O
 
 ‘There you go. That friend of yours looks like he should stay at the railing. Easier on your stomach if you look at the banks, you know. And you won’t have to clean the deck if…you know.’
 
-Rovan thanked the man and turned towards the other two. Onvek didn’t look that bad in his opinion. True, his uniform could have used ironing. And some time in fresh air, for that matter. But it still had all the pieces as far as he could tell, down to ceremonial gloves extending halfway up his forearms.
+Rovan thanked the man and turned towards the other two. Onvek didn’t look that bad in his opinion. True, a strand of his strikingly blond hair had slipped below his cap, which Rovan suggested went against some regulation or another. And his uniform could have used ironing. And some time in fresh air, for that matter. But it still had all the pieces as far as he could tell, down to smith's gloves extending halfway up his forearms.
 
 ‘Thank you,’ Onvek said as Rovan passed him his ticket. ‘You’ve officially saved my skin. I’ll pay you back on my next leave.’
 
