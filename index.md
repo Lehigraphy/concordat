@@ -1,8 +1,7 @@
 ---
 layout: home
 title: The Concordat
-intro: Keeping the furnace lit.
-description: Keeping the furnace lit.
+description: Keeping the furnace lit
 ---
 
 ## Accounts
