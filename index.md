@@ -1,7 +1,7 @@
 ---
 layout: home
 title: The Concordat
-description: "Keeping the furnace lit. Alternative-history hard scifi stories of the Concordat."
+description: "The Concordat is a collection of interconnected stories about a mountain civilization transformed by industry, war, and relentless progress—from its first foundries to a future where the furnace may never be allowed to go cold."
 ---
 
 ## Accounts
