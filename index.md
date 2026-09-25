@@ -2,7 +2,7 @@
 layout: home
 title: The Concordat
 description: Keeping the furnace lit
-excerpt: The furnace burns. And it must not go out.
+intro: The furnace burns. And it must not go out.
 ---
 
 ## Accounts
