@@ -100,7 +100,7 @@ The Journeyman she'd tasked to analysing this approach had held the report like 
 
 The idea _had_ merit. Even a few hundred extra troopers acting as a damper in Weiter would have--
 
-No. She wouldn't do it. She had learned early on that human life was precious, and later that it was the scarcest resource so spend. Having a temporary, local surplus of idle military-age population did not change that. Besides, behavioral projections had large margins of error, and they couldn't afford an insurgency now. Finally, any conscript would have a been an apprentice in a year and a half—often even faster—looping directly back to her first point.
+No. She wouldn't do it. She had learned early on that human life was precious, and later that it was the scarcest resource to spend. Having a temporary, local surplus of idle military-age population did not change that. Besides, behavioral projections had large margins of error, and they couldn't afford an insurgency now. Finally, any conscript would have a been an apprentice in a year and a half—often even faster—looping directly back to her first point.
 
 The Journeyman would sleep better now, she estimated.
 
