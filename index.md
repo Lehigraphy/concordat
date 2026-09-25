@@ -1,7 +1,7 @@
 ---
 layout: home
 title: The Concordat
-description: "A description specifically for this page."
+description: "Keeping the furnace lit. Alternative-history hard scifi stories of the Concordat."
 ---
 
 ## Accounts
