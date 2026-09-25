@@ -1,8 +1,7 @@
 ---
 layout: home
 title: The Concordat
-description: Keeping the furnace lit
-intro: The furnace burns. And it must not go out.
+description: "A description specifically for this page."
 ---
 
 ## Accounts
