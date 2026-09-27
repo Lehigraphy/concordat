@@ -18,12 +18,16 @@ description: "The Concordat is a collection of interconnected stories about a mo
 - [Thirteen](thirteen)
 
 ## Snippets
+
 ### Arcs of Alignment
 - [Line](Line)
 - [Baker](Baker)
 - [Preacher](preacher)
 - [Apprentice](apprentice)
 - [Lines](lines)
+
+### Foundations
+- [No Bell Rings](no-bell-rings)
 
 ### Friction
 - [Protocol Breach](protocol-breach)
