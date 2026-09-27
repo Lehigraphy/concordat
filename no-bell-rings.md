@@ -57,7 +57,7 @@ Behind Tomas, another light died as its valve was shut off. He never looked at t
 
 He was home. He sat in the cafe, his chair pushed against the wall. The owner had changed since the last time, and the selection on the green-tinted glass shelves was new. The coffee was as bad as ever, so at least that one aspect was familiar.
 
-He stirred his spoon in the cup, idly, or so anybody would think, looking through the window. A tram passed. It had appeared when he was home ‌last time. Or perhaps the one before that. It was getting hard to remember.
+He stirred his spoon in the cup, idly, or so anybody would think, and looked through the window. A tram passed. It had appeared when he was home ‌last time. Or perhaps the one before that. It was getting hard to remember.
 
 It was getting dark outside, and the glass reflected his face. Grey was now the dominant colour in his hair. His real hair.
 
