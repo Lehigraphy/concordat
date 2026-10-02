@@ -17,6 +17,7 @@ intro: "The Concordat is a collection of interconnected stories about a mountain
 - [Tally](tally)
 - [Koharsk B](koharsk_b)
 - [Thirteen](thirteen)
+- [Field Surgery](field-surgery)
 
 ## Snippets
 
