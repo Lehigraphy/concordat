@@ -185,8 +185,6 @@ Then, a whine and a faint whirr. The motor kicking in. Jessa grunted and twitche
 
 She sounded tired. Tired but happy. Branik eased the tool out, careful not to manhandle her leg any more. She had definitely been through enough. He’d give her a moment to recover and then remove the rear section. Maybe a dressing on her wound, from the kit on his thigh pocket, a dab of quick-cure resin on the mount. Then he could go on to the actual matter of the bridge, which would ideally take no more than an hour, after which he could catch a ride back on any of the trucks and be home by–
 
-***
-
 ‘Ummm, master? I don’t feel too good.’
 
 The girl had gone pale, and there was a faint blue tinge on her lips that definitely hadn’t been there before. That couldn’t be good. Branik turned his eyes on the hip module again and froze. There was something dripping through the cracks in her crushed armor. Dark drops oozing out from half a dozen spots at once. Slowly, each drop taking its time to form, but terrifyingly fast when summed together.
