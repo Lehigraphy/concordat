@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Field Surgery
-'''
+---
 
 Branik dropped down from the trackbed, his hand on the handle for support. Immediately, the vehicle roared and lurched forward, drivewheels squealing, nearly pulling him off balance. Where was it? He looked around, and only remembered to drop to one knee when the vehicle passed. A crater, he was searching for a crater, in a cratered hillside with the visibility still down from all the smoke and particulates.
 
