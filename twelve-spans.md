@@ -6,7 +6,7 @@ category: Campaign Accounts
 
 An ornate timepiece on Zora's desk showed it was past ten already. It was dark outside her window, and the offices were quiet. She had imported tea in her cup, but the mounting ache behind her eyes was entirely homegrown.
 
-She was skimming through the report one final time. The battle of the Weiter Pass had begun like any alignment operation. A preparatory shelling of the Conglomerate positions, and then a simultaneous strike on six separate sites. Three full companies, nine breacher squads.
+She was skimming through the report one final time. The battle of the Weiter Pass had begun like any alignment operation. A preparatory shelling of the Conglomerate positions, and then a simultaneous strike on six separate sites. An entire breacher company, nine squads.
 
 They had cracked open the enemy strongpoints, destroyed the ground forces, and then fallen back. Anvil had moved in to consolidate, began bulldozing their star of trenches and deploying prefabricated pillboxes. A brief mortar duel had ensued, indecisive but in Concordat's favour, the superior range of their weapons forcing the enemy to relocate. The Conglomerate had then smoked the entire eastern valley, forcing the Concordat fliers higher and cutting visual contact to the ground. Ground command had assumed they were covering their retreat.
 
