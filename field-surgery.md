@@ -17,7 +17,7 @@ Branik crawled closer.
 
 ***
 
-The <battalion> master had asked to see him the evening before yesterday. He came in person, just as Branik was penciling his last notes in the margins of the blueprints. The master bent over to examine his work, commenting here and raising an eyebrow there. Branik could tell right away that he was stalling, meaning something was wrong.
+The battalion master had asked to see him the evening before yesterday. He came in person, just as Branik was penciling his last notes in the margins of the blueprints. The master bent over to examine his work, commenting here and raising an eyebrow there. Branik could tell right away that he was stalling, meaning something was wrong.
 
 Personnel reallocations should have been the overseer’s duty, really. Branik hadn’t been on the line for two decades, but they needed one more engineer. The maze of dells and dales was close to folding already, so they needed to keep up the pressure. Branik would ride in the consolidation train to verify the integrity of the bridge and oversee any repairs needed. Heavy armor would then roll over the bridge and complete the flanking move, but it needed to do so fast.
 
@@ -157,7 +157,7 @@ It had to work. If it didn’t, he was out of options.
 
 ‘Ah, that. I am supposed to be in command apprenticeship right now, would you believe? Got recalled to my old squad for the breach. Some new girl could not learn the suit in time.’ 
 
-Now that was surprising. Branik felt his eyebrows rise. Even with <accelerated schedules> of recent years, anybody chosen for breacher command would have made a master two times over in Anvil. Even the Furnace, though you would never hear them admit it.
+Now that was surprising. Branik felt his eyebrows rise. Even with tracks accelerated during the recent years, anybody chosen for breacher command would have made a master two times over in Anvil. Even the Furnace, though you would never hear them admit it.
 
 ‘So you were not supposed to be here in the first place.’
 
