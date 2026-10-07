@@ -3,8 +3,6 @@ layout: page
 title: Infiltrator (No Bell Rings)
 ---
 
-***
-
 He was Marek, a mill-worker. He sat in the local hole, the back of his stool against the wall, and sipped at his drink. Opposite him, Lennisson gestured with his half-empty pint. A dash of beer spilled on the table, joining the slowly drying sticky pool already there. Lennisson had run out of his theses half an hour ago, so now he was going through them again.
 
 ‘We should lob the head off that ox-drop governor. Like in the old days. A piece of ox-drop, that one.’
